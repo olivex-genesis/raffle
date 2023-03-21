@@ -23,7 +23,7 @@ class Raffle:
     """
 
     @staticmethod
-    def get_signature(event_name, event_places, event_participants, event_seed, private_key):
+    def get_signature(event_name, event_places, event_seed, private_key):
         msg_params = {
             'types': {
                 'EIP712Domain': [
@@ -46,10 +46,6 @@ class Raffle:
                         'type': 'uint256'
                     },
                     {
-                        'name': 'participants',
-                        'type': 'uint256'
-                    },
-                    {
                         'name': 'seed',
                         'type': 'uint256'
                     }
@@ -63,7 +59,6 @@ class Raffle:
             'message': {
                 'eventName': event_name,
                 'winningPlaces': event_places,
-                'participants': event_participants,
                 'seed': event_seed
             }
         }
@@ -86,7 +81,7 @@ class Raffle:
 
     @staticmethod
     def write_result(event_name, results, file_path):
-        table = pd.DataFrame(results, columns=['Winners'])
+        table = pd.DataFrame(results)
         with open(file_path, "w") as f:
             comment = """# {}\n\n## Congratulations to the winners.\n\n""".format(event_name) + \
                       table.to_markdown() + "\n"
@@ -107,17 +102,15 @@ class RaffleEvent:
     for live random seed event, use random seed directly
     """
 
-    def __init__(self, event_name, event_participants, event_places, random_seed, snapshot, private_key_path=None):
+    def __init__(self, event_name, event_places, random_seed, private_key_path=None):
         self.event_name = event_name
         self.event_places = event_places
-        self.event_participants = event_participants
-        self.event_snapshot = snapshot
         self.encrypted_seed = private_key_path is not None
         if private_key_path is None:
             self.random_seed = random_seed
         else:
             key = Raffle.get_private_key(private_key_path)
-            signature, msg = Raffle.get_signature(event_name, event_participants, event_places, random_seed, key)
+            signature, msg = Raffle.get_signature(event_name, event_places, random_seed, key)
             self.random_seed = Raffle.signature_to_int(signature.signature)
             self.signature = signature
             self.msg = msg
@@ -129,8 +122,8 @@ class RaffleEvent:
     random pick unique participant based on the weights
     """
 
-    def get_raffle_result(self, weights):
-        return Raffle.raffle(self.random_seed, self.event_participants, weights, self.event_places)
+    def get_raffle_result(self, event_participants, weights):
+        return Raffle.raffle(self.random_seed, event_participants, weights, self.event_places)
 
     def export_result(self, results, path):
         Raffle.write_result(self.event_name, results, '{}/{}.md'.format(path, self.event_name))
@@ -140,9 +133,3 @@ class RaffleEvent:
             return self.signature
         else:
             return None
-
-    def get_data(self):
-        return Raffle.get_data(self.event_snapshot)
-
-    def get_equal_weights(self):
-        return [1 / self.event_participants] * self.event_participants
