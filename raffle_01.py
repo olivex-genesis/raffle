@@ -11,7 +11,7 @@ snapshot = Raffle.get_data('data/Moca-Raffle/snapshot_1.json')
 EVENT_NAME = 'Moca-Giveaway-01'
 EVENT_PLACES = 5
 # update after onchain random seed raffle
-EVENT_SEED = 2023
+EVENT_SEED = 5458442556912548267338026275094451493338016430765720025401280646515453231041
 # following isn't token id
 EVENT_PRIZES = ['#2300', '#2304', '#2306', '#2310', '#2320']
 
