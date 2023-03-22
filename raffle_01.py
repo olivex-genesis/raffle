@@ -4,7 +4,7 @@ from utils.raffle import Raffle
 
 # prepare data
 opt_out_list = Raffle.get_data('data/Moca-Raffle/opt_out_list.json')
-eligible_token = list(Raffle.get_data('data/Moca-Raffle/eligible_list.json')['allRevealed'].keys())
+eligible_token = list([key for key, value in Raffle.get_data('data/Moca-Raffle/eligible_list.json')['allRevealed'].items() if value == '1'])
 snapshot = Raffle.get_data('data/Moca-Raffle/snapshot_1.json')
 
 # same as onchain raffle name
@@ -13,7 +13,7 @@ EVENT_PLACES = 5
 # update after onchain random seed raffle
 EVENT_SEED = 2023
 # following isn't token id
-EVENT_PRIZES = [2300, 2304, 2306, 2310, 2320]
+EVENT_PRIZES = ['#2300', '#2304', '#2306', '#2310', '#2320']
 
 raffle = RaffleEvent(EVENT_NAME, EVENT_PLACES, EVENT_SEED)
 
