@@ -8,7 +8,7 @@ eligible_token = list([key for key, value in Raffle.get_data('data/Moca-Raffle/e
 snapshot = Raffle.get_data('data/Moca-Raffle/snapshot_1.json')
 
 # same as onchain raffle name
-EVENT_NAME = 'Moca-Raffle-01'
+EVENT_NAME = 'Moca-Giveaway-01'
 EVENT_PLACES = 5
 # update after onchain random seed raffle
 EVENT_SEED = 2023
