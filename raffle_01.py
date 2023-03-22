@@ -29,8 +29,11 @@ event_participants = []
 for participant in participants:
     wishes = all_owners[participant]['wishes']
     pages = sum([token['earned'] for token in all_owners[participant]['token_details'] if token['token_id'] in eligible_token])
+    eligible_hold = [token['token_id'] for token in all_owners[participant]['token_details'] if token['token_id'] in eligible_token]
+
     entries = pages + wishes * 3
-    if entries > 0:
+    # only user hold at least one eligible token can join raffle
+    if len(eligible_hold) > 0:
         event_participants.append(participant)
         user_entries.append(entries)
 
