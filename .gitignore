@@ -3,3 +3,4 @@ configs
 __pycache__
 internal_utils
 results/*.json
+tem

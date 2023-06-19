@@ -1,0 +1,786 @@
+[
+  {
+    "Username": "Distinct#5138",
+    "UserID": "139345730203680768",
+    "SubmittedAt": "2023-11-04T12:06:51.000Z",
+    "DiscordName": "Distinct#5138",
+    "GenesisWallet": "0x1B064e127265C317aDFca9ceB84d6069646e6C2E",
+    "SandboxWallet": "0x1B064e127265C317aDFca9ceB84d6069646e6C2E"
+  },
+  {
+    "Username": "web3dad#8668",
+    "UserID": "899812756457406574",
+    "SubmittedAt": "2023-11-04T16:33:37.000Z",
+    "DiscordName": "web3dad#8668",
+    "GenesisWallet": "0xF1816fB8b560DEF0cA8cCEE20E7370420aBC72CD",
+    "SandboxWallet": "0xF1816fB8b560DEF0cA8cCEE20E7370420aBC72CD"
+  },
+  {
+    "Username": "Gyarados#1268",
+    "UserID": "470912622808793091",
+    "SubmittedAt": "2023-11-04T16:36:35.000Z",
+    "DiscordName": "Gyarados#1268",
+    "GenesisWallet": "0xdAEa675FdA756B9504EB0a33Bf077FA8D8E36A90",
+    "SandboxWallet": "0xc700e16f61041fcf717f0930227e26948c746bc5"
+  },
+  {
+    "Username": "robinn#7363",
+    "UserID": "529725910513877002",
+    "SubmittedAt": "2023-11-04T16:39:31.000Z",
+    "DiscordName": "robinn#7363",
+    "GenesisWallet": "0x7304491Ed6471C2158E8361513e8F1B68DAEce4b",
+    "SandboxWallet": "0x1A3dc81950Ef91661B2f2A1C48eE261B6cb58a91"
+  },
+  {
+    "Username": "Kepin#8657",
+    "UserID": "267275721091710977",
+    "SubmittedAt": "2023-11-04T17:22:55.000Z",
+    "DiscordName": "Kepin#8657",
+    "GenesisWallet": "0xb35D77527e9887F8343D7F44167A74CA06008C49",
+    "SandboxWallet": "0xa812a58b8cFb6f3648fBd8cc00485Bbcc43E5816"
+  },
+  {
+    "Username": "alankeungz79#6666",
+    "UserID": "914660754832113677",
+    "SubmittedAt": "2023-11-04T17:48:27.000Z",
+    "DiscordName": "alankeungz79#6666",
+    "GenesisWallet": "0x627B63DA1391DEaC116397A09A6EfC644375709E",
+    "SandboxWallet": "0x627B63DA1391DEaC116397A09A6EfC644375709E"
+  },
+  {
+    "Username": "JaxiNub#6346",
+    "UserID": "448496205488586782",
+    "SubmittedAt": "2023-11-04T18:11:19.000Z",
+    "DiscordName": "JaxiNub#6346",
+    "GenesisWallet": "0x7E623140b82b2D53e99bE56f8Be6410069C77f1f",
+    "SandboxWallet": "0x87431Ebb78B12E9ea133eCC77705d4fB96f54441"
+  },
+  {
+    "Username": "Amerihun | NFT Sailor |#1337",
+    "UserID": "426870922310320139",
+    "SubmittedAt": "2023-11-04T18:40:28.000Z",
+    "DiscordName": "Amerihun | NFT Sailor |#1337",
+    "GenesisWallet": "0x830bFa4B7d0e6ffA5AF5c44691fa603e0e04Fb5D",
+    "SandboxWallet": "0x830bFa4B7d0e6ffA5AF5c44691fa603e0e04Fb5D"
+  },
+  {
+    "Username": "Pablito974.eth#6398",
+    "UserID": "842036290668855337",
+    "SubmittedAt": "2023-11-04T19:39:13.000Z",
+    "DiscordName": "PABLITO974#6398",
+    "GenesisWallet": "0xcda444de55ac909992f2213d0A1737D78236e167",
+    "SandboxWallet": "0xcda444de55ac909992f2213d0A1737D78236e167"
+  },
+  {
+    "Username": "0xHakon#1234",
+    "UserID": "372389588578336779",
+    "SubmittedAt": "2023-11-04T20:07:02.000Z",
+    "DiscordName": "0xHakon#1234",
+    "GenesisWallet": "0x059580c3F3cb7D3a23269a6C88355F30ab3e819f",
+    "SandboxWallet": "0xc67c218b3717Be010f6375514166A1733124a1bE"
+  },
+  {
+    "Username": "RothDigital#2542",
+    "UserID": "833810072807014490",
+    "SubmittedAt": "2023-11-04T20:49:19.000Z",
+    "DiscordName": "RothDigital#2542",
+    "GenesisWallet": "0x12726243d11Db0E74688feACBcaD40585Dd31170",
+    "SandboxWallet": "0x542dAe0FFe948389b7174b1Bb4042a15FE39A02b"
+  },
+  {
+    "Username": "uarewRong#0349",
+    "UserID": "120518185270247426",
+    "SubmittedAt": "2023-11-04T22:51:14.000Z",
+    "DiscordName": "uarewRong#0349",
+    "GenesisWallet": "0xF92D1489e4ca27D7a9B69549BE698616DFA7aC3C",
+    "SandboxWallet": "0xF6EaEF350DA1e8a16cf41d3067A832b5f4E8Ddae"
+  },
+  {
+    "Username": "0xsoupnft#0001",
+    "UserID": "844442182140035073",
+    "SubmittedAt": "2023-12-04T01:05:44.000Z",
+    "DiscordName": "0xsoupnft#0001",
+    "GenesisWallet": "0xA320Cd525AF4396a9589C509A9526701B5876E59",
+    "SandboxWallet": "0x52AE96079530b311C7BdBe89b5Cb07aB6FaCF67d"
+  },
+  {
+    "Username": "Sodo_c#0733",
+    "UserID": "843758462545690645",
+    "SubmittedAt": "2023-12-04T01:53:16.000Z",
+    "DiscordName": "Sodo_c#0733",
+    "GenesisWallet": "0xeC32D8B0bcd1d1cA134767F9f8a5871c8D373475",
+    "SandboxWallet": "0xeC32D8B0bcd1d1cA134767F9f8a5871c8D373475"
+  },
+  {
+    "Username": "Laby#0027",
+    "UserID": "933097886118465556",
+    "SubmittedAt": "2023-12-04T02:20:01.000Z",
+    "DiscordName": "Laby#0027",
+    "GenesisWallet": "0xCCddaE671253e07141491aff3B86C7feBF6B4940",
+    "SandboxWallet": "0xCCddaE671253e07141491aff3B86C7feBF6B4940"
+  },
+  {
+    "Username": "MoistSushi#4815",
+    "UserID": "327268311526014987",
+    "SubmittedAt": "2023-12-04T02:26:05.000Z",
+    "DiscordName": "MoistSushi#4815",
+    "GenesisWallet": "0x8b3A769B55ad0Fb6e07DC5a04a60F24D3B0314c8",
+    "SandboxWallet": "0x8b3A769B55ad0Fb6e07DC5a04a60F24D3B0314c8"
+  },
+  {
+    "Username": "daodao#3459",
+    "UserID": "841507255428841492",
+    "SubmittedAt": "2023-12-04T05:03:49.000Z",
+    "DiscordName": "daodao#3459",
+    "GenesisWallet": "0xeB355Ca015905e8b578C6D8434153A1c7e55A3E0",
+    "SandboxWallet": "0x376A2D7E496fd5a8D737568b6E344C814C7a4949"
+  },
+  {
+    "Username": "NFTKF_LM#1111",
+    "UserID": "386060118946742273",
+    "SubmittedAt": "2023-12-04T07:05:23.000Z",
+    "DiscordName": "NFTKF_LM#1111",
+    "GenesisWallet": "0xD5247693470d4AB3A2B549EDBB8f7890a5fFC93b",
+    "SandboxWallet": "0x3F2924ACdbAC0A78776C47415bB2aFF57BbcBF99"
+  },
+  {
+    "Username": "Mishy#7911",
+    "UserID": "746986016618840065",
+    "SubmittedAt": "2023-12-04T07:50:58.000Z",
+    "DiscordName": "Mishy#7911",
+    "GenesisWallet": "0xCAc5EE14B2155bDf3c7CACAF091c9b481fB47bD2",
+    "SandboxWallet": "0xCAc5EE14B2155bDf3c7CACAF091c9b481fB47bD2"
+  },
+  {
+    "Username": "bakabakayaro#4415",
+    "UserID": "183822089512288256",
+    "SubmittedAt": "2023-12-04T11:16:15.000Z",
+    "DiscordName": "bakabakayaro#4415",
+    "GenesisWallet": "0x76bfCd12502990cB01BFA134338E5c5bDC0F414e",
+    "SandboxWallet": "0xbfB8C108D28E879314C200B08dF32ba4E451407A"
+  },
+  {
+    "Username": "yueya#1617",
+    "UserID": "860695596171526194",
+    "SubmittedAt": "2023-12-04T12:57:24.000Z",
+    "DiscordName": "yueya#1617",
+    "GenesisWallet": "0x781C7871191e0a6e9699b7B1b7E18F4c9c2409c3",
+    "SandboxWallet": "0x0b78250774F55D8187141A2AfC4F55EE4bAd34Aa"
+  },
+  {
+    "Username": "Ramen#9666",
+    "UserID": "769581589288976415",
+    "SubmittedAt": "2023-12-04T13:00:31.000Z",
+    "DiscordName": "Ramen#9666",
+    "GenesisWallet": "0x88C572461B8f198EF515aa471A671F52ad266751",
+    "SandboxWallet": "0x65CD78ef5F16140e807cc43B51a84b5402723aad"
+  },
+  {
+    "Username": "Jelii#0832",
+    "UserID": "320375027956711426",
+    "SubmittedAt": "2023-12-04T13:56:28.000Z",
+    "DiscordName": "Jelii#0832",
+    "GenesisWallet": "0xCAFB60f9E28f03cb1095d14A90Cab8F2189a1c95",
+    "SandboxWallet": "0xCAFB60f9E28f03cb1095d14A90Cab8F2189a1c95"
+  },
+  {
+    "Username": "Aeon#2490",
+    "UserID": "207131510505996288",
+    "SubmittedAt": "2023-12-04T17:07:56.000Z",
+    "DiscordName": "Aeon#2490",
+    "GenesisWallet": "0x342D662cE44BC2509D563C3a2c7AB8996801E714",
+    "SandboxWallet": "0x342D662cE44BC2509D563C3a2c7AB8996801E714"
+  },
+  {
+    "Username": "mblords123#6065",
+    "UserID": "974542942234607676",
+    "SubmittedAt": "2023-12-04T17:14:22.000Z",
+    "DiscordName": "mblords123#6065",
+    "GenesisWallet": "0x44a2B8370e893Ced81F6E4770C324466c99B3AE2",
+    "SandboxWallet": "0x44a2B8370e893Ced81F6E4770C324466c99B3AE2"
+  },
+  {
+    "Username": "ablest#7777",
+    "UserID": "340536728144314368",
+    "SubmittedAt": "2023-12-04T18:06:24.000Z",
+    "DiscordName": "ablest#7777",
+    "GenesisWallet": "0xad82ce380c2bce60fe703e639befcca9f1d509ac",
+    "SandboxWallet": "0xad82ce380c2bce60fe703e639befcca9f1d509ac"
+  },
+  {
+    "Username": "Mutou#6130",
+    "UserID": "241673329243586560",
+    "SubmittedAt": "2023-12-04T21:25:06.000Z",
+    "DiscordName": "Mutou#6130",
+    "GenesisWallet": "0xC0492E84555D03Cb011A7ec65A3549fA7db70b79",
+    "SandboxWallet": "0x8DFAA06aFd2703E94A559F3bC7112E4C630956C0"
+  },
+  {
+    "Username": "SacreD#1258",
+    "UserID": "190601756332392448",
+    "SubmittedAt": "2023-12-04T21:40:21.000Z",
+    "DiscordName": "SacreD#1258",
+    "GenesisWallet": "0xdb9986bd0596B8a4873b09b4a10B81B13f2C9dDd",
+    "SandboxWallet": "0xdb9986bd0596B8a4873b09b4a10B81B13f2C9dDd"
+  },
+  {
+    "Username": "CryptoDynasty#4192",
+    "UserID": "898310399970123856",
+    "SubmittedAt": "2023-12-04T21:41:33.000Z",
+    "DiscordName": "CryptoDynasty#4192",
+    "GenesisWallet": "0xCb9586245Ad6e07585515D7ad43D19D163B72Bf2",
+    "SandboxWallet": "0xCb9586245Ad6e07585515D7ad43D19D163B72Bf2"
+  },
+  {
+    "Username": "haegolmul | Suiswap#0153",
+    "UserID": "386778575979675648",
+    "SubmittedAt": "13/04/2023, 02:59:28",
+    "DiscordName": "haegolmul | Suiswap#0153",
+    "GenesisWallet": "0x403D86bD7f3dDD8D18d940Ece1422686EF1971A0",
+    "SandboxWallet": "0x663753f5653b8c5789ECBdA8C18F002ff1d80820"
+  },
+  {
+    "Username": "Madureira#3363",
+    "UserID": "522748992895975424",
+    "SubmittedAt": "13/04/2023, 03:51:01",
+    "DiscordName": "Madureira#3363",
+    "GenesisWallet": "0x67BE17f0c922321dDBb6356e8666121df58C4bFE",
+    "SandboxWallet": "0x67BE17f0c922321dDBb6356e8666121df58C4bFE"
+  },
+  {
+    "Username": "meowgang.eth🦁🏴☠#1879",
+    "UserID": "880377276401856532",
+    "SubmittedAt": "13/04/2023, 11:01:56",
+    "DiscordName": "meowgang.eth🦁🏴☠#1879",
+    "GenesisWallet": "0x666ba96467d06663D5d6ac9991A4020C0dCD5cce",
+    "SandboxWallet": "0x1d9AE0eb420aF8f3cB5EadE44C5Ec7ec09ff425f"
+  },
+  {
+    "Username": "Bokjisa#9678",
+    "UserID": "433079159137370114",
+    "SubmittedAt": "13/04/2023, 15:57:35",
+    "DiscordName": "Bokjisa#9678",
+    "GenesisWallet": "0x5B7A02e81DCabFB4e8701D3C51915Ef5FF063860",
+    "SandboxWallet": "0xc9B83EB594190f009882AC4D4a91dDE40B577DA1"
+  },
+  {
+    "Username": "Jenj#7635",
+    "UserID": "325560518775668736",
+    "SubmittedAt": "14/04/2023, 01:38:11",
+    "DiscordName": "Jenj#7635",
+    "GenesisWallet": "0x2922a0CA69bBA1CE06aa03293553022dff843068",
+    "SandboxWallet": "0x63faecaaab5b9318b5d66a065ef6feaa9b8562c5"
+  },
+  {
+    "Username": "Waldo#8888",
+    "UserID": "877184215953850418",
+    "SubmittedAt": "14/04/2023, 07:13:03",
+    "DiscordName": "Waldo#8888",
+    "GenesisWallet": "0x85b826B5eB230D03Ce1BB41DED646909bF0c3F4E",
+    "SandboxWallet": "0x85b826B5eB230D03Ce1BB41DED646909bF0c3F4E"
+  },
+  {
+    "Username": "Fengo.swoosh#2212",
+    "UserID": "752086807008772116",
+    "SubmittedAt": "14/04/2023, 12:50:54",
+    "DiscordName": "Fengo.swoosh#2212",
+    "GenesisWallet": "0x35bA0d52d05F3785a16197F48Ac6F6273aB8BA60",
+    "SandboxWallet": "0xC52B6060157d9E81aB0F39648Dba71bb2311Ab13"
+  },
+  {
+    "Username": "[L]egendary#1791",
+    "UserID": "806996936028323903",
+    "SubmittedAt": "14/04/2023, 12:53:09",
+    "DiscordName": "[L]egendary",
+    "GenesisWallet": "0x76EBbCeE3C5d61A528b562091f49837E8cbdA1fA",
+    "SandboxWallet": "0x76EBbCeE3C5d61A528b562091f49837E8cbdA1fA"
+  },
+  {
+    "Username": "CoRinLee#6563",
+    "UserID": "750196968638382150",
+    "SubmittedAt": "14/04/2023, 14:37:22",
+    "DiscordName": "CoRinLee#6563",
+    "GenesisWallet": "0x8BfbAA24C27C6309A95e0aA22801bc1D61a52558",
+    "SandboxWallet": "0x8BfbAA24C27C6309A95e0aA22801bc1D61a52558"
+  },
+  {
+    "Username": "tasadar#3989",
+    "UserID": "1038829387019206707",
+    "SubmittedAt": "15/04/2023, 19:29:16",
+    "DiscordName": "tasadar#3989",
+    "GenesisWallet": "0xA4eb6e4F97166b49dC15350bb28D73f7Ee295f85",
+    "SandboxWallet": "0x270c943a37a8a6bC2845a846e33E24Ea0C96Abd0"
+  },
+  {
+    "Username": "0xDave#1097",
+    "UserID": "863606770440863775",
+    "SubmittedAt": "16/04/2023, 03:54:21",
+    "DiscordName": "0xDave#1097",
+    "GenesisWallet": "0x10cca6BbE441C3648d3dF145fD41C0F3688f0fD0",
+    "SandboxWallet": "0x8f6bC68fD3156344506147F01eD83D7f8753506c"
+  },
+  {
+    "Username": "dolch#7477",
+    "UserID": "202760039377797120",
+    "SubmittedAt": "16/04/2023, 19:42:12",
+    "DiscordName": "dolch#7477",
+    "GenesisWallet": "0x4745CD2FB56Eb551c1c63cF9Cf959B0b3F7b2434",
+    "SandboxWallet": "0x4745CD2FB56Eb551c1c63cF9Cf959B0b3F7b2434"
+  },
+  {
+    "Username": "Twixy#9096",
+    "UserID": "168211845109383179",
+    "SubmittedAt": "17/04/2023, 05:58:52",
+    "DiscordName": "Twixy#9096",
+    "GenesisWallet": "0x70DE37Fd37B43AC5BEB9C20E9d4AF5bBdC62feb9",
+    "SandboxWallet": "0x70DE37Fd37B43AC5BEB9C20E9d4AF5bBdC62feb9"
+  },
+  {
+    "Username": "0xAndy.eth#0001",
+    "UserID": "936561264497418250",
+    "SubmittedAt": "17/04/2023, 08:40:00",
+    "DiscordName": "0xAndy.eth#0001",
+    "GenesisWallet": "0xb3EEc5dEA0C3Bc6Adeb56a53C6c54601e886D2b3",
+    "SandboxWallet": "0x51c04a201B21458Bc93b533C245f28bF31799050"
+  },
+  {
+    "Username": "donaldp#5828",
+    "UserID": "715503890228969534",
+    "SubmittedAt": "17/04/2023, 15:32:01",
+    "DiscordName": "donaldp#5828",
+    "GenesisWallet": "0x3c5de42f02DebBaA235f7a28E4B992362FfeE0B6",
+    "SandboxWallet": "0xb200663fbEAE3C28D898453Fb4Fd9898cF0Bcbd8"
+  },
+  {
+    "Username": "Starlord✨#6618",
+    "UserID": "962767622976450590",
+    "SubmittedAt": "17/04/2023, 20:00:19",
+    "DiscordName": "Starlord✨#6618",
+    "GenesisWallet": "0x00ac8aDcBf39C434b938baa7a68A01e530746C02",
+    "SandboxWallet": "0x6a7c15bC8E64219309033319e2A230bc33915976"
+  },
+  {
+    "Username": "Chux#2351",
+    "UserID": "487855563510644757",
+    "SubmittedAt": "17/04/2023, 21:49:19",
+    "DiscordName": "Chux#2351",
+    "GenesisWallet": "0xb932e51CBdaAC39420C3E21fBcEb223AcabE8d79",
+    "SandboxWallet": "0x851621C336B5ead13Ee7325a42e00658aa14aDce"
+  },
+  {
+    "Username": "Buq50#7645",
+    "UserID": "832273003491491890",
+    "SubmittedAt": "18/04/2023, 05:56:59",
+    "DiscordName": "BuQ50#7645",
+    "GenesisWallet": "0x535A95120E925EfD8EA5eA891836FC75F919E82B",
+    "SandboxWallet": "0x31546c09Ce57628F98D5A4B78b164207595BaF6C"
+  },
+  {
+    "Username": "ss hh#4582",
+    "UserID": "909317732321861632",
+    "SubmittedAt": "18/04/2023, 16:30:35",
+    "DiscordName": "ss hh#4582",
+    "GenesisWallet": "0xB192318b236ded93c36b7DEF38649aA1f4613795",
+    "SandboxWallet": "0xB192318b236ded93c36b7DEF38649aA1f4613795"
+  },
+  {
+    "Username": "Denzo#2276",
+    "UserID": "851215550607917126",
+    "SubmittedAt": "18/04/2023, 22:30:40",
+    "DiscordName": "Denzo#2276",
+    "GenesisWallet": "0xf99557921E4299Ece6Ffd8B7e94B6C2F54bA4B40",
+    "SandboxWallet": "0xCf040D022F2C16F25Cd9633Fa66Ec757EF2946f1"
+  },
+  {
+    "Username": "DJRupture424#8574",
+    "UserID": "872975313561350154",
+    "SubmittedAt": "19/04/2023, 15:20:15",
+    "DiscordName": "DJRupture424#8574",
+    "GenesisWallet": "0xf97146822887EAd324c4a53f5380Aa7FC70093Be",
+    "SandboxWallet": "0x80b70078deA0275791E8876a5CEFD8e580669d9D"
+  },
+  {
+    "Username": "TTM Rabbit#8826",
+    "UserID": "929323970254229514",
+    "SubmittedAt": "20/04/2023, 07:42:47",
+    "DiscordName": "TTM Rabbit#8826",
+    "GenesisWallet": "0xe119B1676f5bE84fb72f4697cA695D2C2584Af3a",
+    "SandboxWallet": "0x1746271582E2BbF72201e53935f913C1616CD56c"
+  },
+  {
+    "Username": "0xExplorer#6288",
+    "UserID": "896199449104224266",
+    "SubmittedAt": "21/04/2023, 11:25:26",
+    "DiscordName": "0xExplorer#6288",
+    "GenesisWallet": "0x84dC68ddc5E0cDb79f8DDf4534157eC3a10623c4",
+    "SandboxWallet": "0x84dC68ddc5E0cDb79f8DDf4534157eC3a10623c4"
+  },
+  {
+    "Username": "SSPxLEO (0xg3) 🌐#0264",
+    "UserID": "263485667030466560",
+    "SubmittedAt": "22/04/2023, 05:40:50",
+    "DiscordName": "SSPxLEO (0xg3) 🌐#0264",
+    "GenesisWallet": "0x475545D483e132218a72273268654c3960C1f28C",
+    "SandboxWallet": "0x475545D483e132218a72273268654c3960C1f28C"
+  },
+  {
+    "Username": "TheBreaks#7573",
+    "UserID": "994344176525262898",
+    "SubmittedAt": "23/04/2023, 20:04:37",
+    "DiscordName": "KnuckleDown",
+    "GenesisWallet": "0xA66e0F6d1AA796743f7C3f17e8e38675FD4D072e",
+    "SandboxWallet": "0xA66e0F6d1AA796743f7C3f17e8e38675FD4D072e"
+  },
+  {
+    "Username": "VavityVa#5654",
+    "UserID": "252139682631122945",
+    "SubmittedAt": "24/04/2023, 00:20:39",
+    "DiscordName": "VavityVa#5654",
+    "GenesisWallet": "0x09dbE191065884cF36C18bfa5A9Fde973edC86E3",
+    "SandboxWallet": "0x09dbE191065884cF36C18bfa5A9Fde973edC86E3"
+  },
+  {
+    "Username": "jalapenojacker#4367",
+    "UserID": "565408200040382490",
+    "SubmittedAt": "26/04/2023, 00:29:58",
+    "DiscordName": "jalapenojacker#4367",
+    "GenesisWallet": "0x9c6575574e47d9D9A8e6f6a3436Da9B15931975d",
+    "SandboxWallet": "0x9B18bD08C490e96D9Dd8E53f4196AD46208a7C0f"
+  },
+  {
+    "Username": "YJ#5656",
+    "UserID": "382062072474763264",
+    "SubmittedAt": "30/04/2023, 14:16:26",
+    "DiscordName": "YJ#5656",
+    "GenesisWallet": "0xAfa31343b918DF5E2ED161594D4736A4e6dAe31F",
+    "SandboxWallet": "0xAfa31343b918DF5E2ED161594D4736A4e6dAe31F"
+  },
+  {
+    "Username": "TLUST#0681",
+    "UserID": "519573331339509761",
+    "SubmittedAt": "30/04/2023, 21:18:21",
+    "DiscordName": "Tummy",
+    "GenesisWallet": "0xdb3be154aeb741867196a918fa2bd5f704dc022a",
+    "SandboxWallet": "0xc28c192bf522bae91f5908173a93518b14942aa9"
+  },
+  {
+    "Username": "slug juice#0586",
+    "UserID": "1096891346691825796",
+    "SubmittedAt": "2023-01-05T01:10:20.000Z",
+    "DiscordName": "slug juice#0586",
+    "GenesisWallet": "0x3d6b388095ee3ce805908d77308373b60e83c437",
+    "SandboxWallet": "0x61e28e081c5b9894bfd66e2f9c53fe8a41ebab98"
+  },
+  {
+    "Username": "magicrush#5593",
+    "UserID": "914933853267845130",
+    "SubmittedAt": "2023-01-05T15:23:58.000Z",
+    "DiscordName": "magicrush",
+    "GenesisWallet": "0xeac1AB0E0236735ea670C64F536e5E90953eb64e",
+    "SandboxWallet": "0xeac1AB0E0236735ea670C64F536e5E90953eb64e"
+  },
+  {
+    "Username": "Fayek11#3910",
+    "UserID": "705234779259273246",
+    "SubmittedAt": "2023-01-05T19:25:51.000Z",
+    "DiscordName": "FayeK11",
+    "GenesisWallet": "0x771277672df69973DeF99F944B03D787673c1426",
+    "SandboxWallet": "0x771277672df69973DeF99F944B03D787673c1426"
+  },
+  {
+    "Username": "leva nas nalgas#5539",
+    "UserID": "1096905533891547166",
+    "SubmittedAt": "2023-02-05T12:42:09.000Z",
+    "DiscordName": "leva nas nalgas#5539",
+    "GenesisWallet": "0x0a818e3ba5cc7f9e3ff1cc694e7c26a96285018b",
+    "SandboxWallet": "0xa87b6399fA02230047d12Ad82F18ba291cBB7E82"
+  },
+  {
+    "Username": "peachy.dooks#5707",
+    "UserID": "1096890386041024665",
+    "SubmittedAt": "2023-02-05T13:16:38.000Z",
+    "DiscordName": "peachy.dooks#5707",
+    "GenesisWallet": "0x0a47c93706ca6b3f72dc0ff619484ca65a913b04",
+    "SandboxWallet": "0x0fAbAe71E4A2F6d90986e57680770283ADA63818"
+  },
+  {
+    "Username": "FuckerR#2059",
+    "UserID": "1096897227294777345",
+    "SubmittedAt": "2023-02-05T13:26:00.000Z",
+    "DiscordName": "FuckerR#2059",
+    "GenesisWallet": "0x2b3a0b7a38982988f94703fb864a7dd2ce0de731",
+    "SandboxWallet": "0xE7A0637252C4aaa4f474664aaF9c3A1Fa955c0A2"
+  },
+  {
+    "Username": "Ganyotçu#3067",
+    "UserID": "1096904748411650048",
+    "SubmittedAt": "2023-02-05T13:29:09.000Z",
+    "DiscordName": "Ganyotçu#3067",
+    "GenesisWallet": "0x83776793c6e23d3faee397dda7a28190f7301e13",
+    "SandboxWallet": "0x2378D669B209A7C7aF82388E30eF6cDeC5B167bF"
+  },
+  {
+    "Username": "Ghely Ganda#0492",
+    "UserID": "1096894631179980981",
+    "SubmittedAt": "2023-02-05T13:32:55.000Z",
+    "DiscordName": "Ghely Ganda#0492",
+    "GenesisWallet": "0xdeb12b2e285c3331e73ff5a3f08d7d81c9042a7f",
+    "SandboxWallet": "0xd3f1a6a843bA61Ab92c5F5E9908996cF29e6A35a"
+  },
+  {
+    "Username": "Cheburek_2244#5215",
+    "UserID": "1096890073477283860",
+    "SubmittedAt": "2023-02-05T13:35:41.000Z",
+    "DiscordName": "Cheburek_2244#5215",
+    "GenesisWallet": "0xd30820e9617ccbe3fcc0162e85b8e0945b801547",
+    "SandboxWallet": "0xB94f3f0FAac90eA59340EB16cc8621Af36157091"
+  },
+  {
+    "Username": "AlvinZvu#1442",
+    "UserID": "1096902796814602320",
+    "SubmittedAt": "2023-02-05T13:40:17.000Z",
+    "DiscordName": "AlvinZvu#1442",
+    "GenesisWallet": "0x0bbda0e3f24038a38113a6c247b7351c63cf92da",
+    "SandboxWallet": "0x2624427367e49BC6543DC9eEf3B422Ef785597f1"
+  },
+  {
+    "Username": "ManuGV01#6385",
+    "UserID": "1096904056460550285",
+    "SubmittedAt": "2023-02-05T13:43:14.000Z",
+    "DiscordName": "ManuGV01#6385",
+    "GenesisWallet": "0xefdd8a2d102b5645537e86e1624dfb06ac2c690b",
+    "SandboxWallet": "0xA148eD77321de0A786886334E990127E45dF8a8a"
+  },
+  {
+    "Username": "samir8033#0864",
+    "UserID": "1096892201218359379",
+    "SubmittedAt": "2023-02-05T13:46:03.000Z",
+    "DiscordName": "samir8033#0864",
+    "GenesisWallet": "0xf97146822887ead324c4a53f5380aa7fc70093be",
+    "SandboxWallet": "0x7b469b2E145a002dad955CeF4a79E442922DBc3F"
+  },
+  {
+    "Username": "SAM NIKKK#9544",
+    "UserID": "1096893509639876764",
+    "SubmittedAt": "2023-02-05T13:55:47.000Z",
+    "DiscordName": "SAM NIKKK#9544",
+    "GenesisWallet": "0x830bfa4b7d0e6ffa5af5c44691fa603e0e04fb5d",
+    "SandboxWallet": "0x8c3122a1f39BEA5F7a31d83eA226139c00aBC4bb"
+  },
+  {
+    "Username": "FERMA040#0371",
+    "UserID": "1096896814076141659",
+    "SubmittedAt": "2023-02-05T13:58:34.000Z",
+    "DiscordName": "FERMA040#0371",
+    "GenesisWallet": "0xd273485bdedeb856083dde9a8b293aa556cf8178",
+    "SandboxWallet": "0x5F762751FbC3c8bc623B88640CF32799950fA1fb"
+  },
+  {
+    "Username": "jslives254#2002",
+    "UserID": "1096891888159698995",
+    "SubmittedAt": "2023-02-05T14:01:04.000Z",
+    "DiscordName": "jslives254#2002",
+    "GenesisWallet": "0xdf67277f552a9992711f0a670c1e5e00a6b86d39",
+    "SandboxWallet": "0xD70262ee323d86f7b78Ee28a54f0A8800f77D084"
+  },
+  {
+    "Username": "D0NN0#5445",
+    "UserID": "1096892527572955216",
+    "SubmittedAt": "2023-02-05T14:03:24.000Z",
+    "DiscordName": "D0NN0#5445",
+    "GenesisWallet": "0xf248d9df55bb5187c855c5cec4898bfc8375979f",
+    "SandboxWallet": "0x918561229F792f8767440af45d8656d8f755E1a2"
+  },
+  {
+    "Username": "yrhtt#2213",
+    "UserID": "1096899417715515525",
+    "SubmittedAt": "2023-02-05T14:06:23.000Z",
+    "DiscordName": "yrhtt#2213",
+    "GenesisWallet": "0x98389c9e1d24686d3a0b357d2c184a3ab09a5244",
+    "SandboxWallet": "0x807e7f79E06496995BaA48ef88fbb18690B7EF33"
+  },
+  {
+    "Username": "DSAMADMASMD#2940",
+    "UserID": "1096891538514137170",
+    "SubmittedAt": "2023-02-05T14:09:43.000Z",
+    "DiscordName": "DSAMADMASMD#2940",
+    "GenesisWallet": "0xb6d2fc0582b3d13319563411aa34548a370fdb9b",
+    "SandboxWallet": "0xE94169474eFf6Bb6223483F5F7bB9BB8B16Dc662"
+  },
+  {
+    "Username": "Luis Rodrigo#0838",
+    "UserID": "1096902074140201161",
+    "SubmittedAt": "2023-02-05T14:13:51.000Z",
+    "DiscordName": "Luis Rodrigo#0838",
+    "GenesisWallet": "0x1011cf5c83dd7e4ed326c1b0f2124038beb224e1",
+    "SandboxWallet": "0x9f983a18dfdE08a73b96730Ee6Df8fFdAfE3c2bA"
+  },
+  {
+    "Username": "Pvblx#9028",
+    "UserID": "1096897122898550905",
+    "SubmittedAt": "2023-02-05T14:19:40.000Z",
+    "DiscordName": "Pvblx#9028",
+    "GenesisWallet": "0x4c59097c37f5e1b3bb767a920ae285f3b47586d1",
+    "SandboxWallet": "0xBd40ABaFE6912bb32dFB704FDb1721Af9B1e78A7"
+  },
+  {
+    "Username": "RoberPlat#0553",
+    "UserID": "1096901660908978266",
+    "SubmittedAt": "2023-02-05T14:22:55.000Z",
+    "DiscordName": "RoberPlat#0553",
+    "GenesisWallet": "0xc0492e84555d03cb011a7ec65a3549fa7db70b79",
+    "SandboxWallet": "0xE442740Fdc1ec996D195FDD90773dfd4dd9574A7"
+  },
+  {
+    "Username": "[RİP]-ALİ#7443",
+    "UserID": "1096903707347656784",
+    "SubmittedAt": "2023-02-05T14:25:27.000Z",
+    "DiscordName": "[RİP]-ALİ#7443",
+    "GenesisWallet": "0x2eff9bc25386263c9184fd9db2464cd522c0adb3",
+    "SandboxWallet": "0x09BB11eccf0F32383030531e23C14327f3Dc3A54"
+  },
+  {
+    "Username": "SicraP#4945",
+    "UserID": "1096898034509553825",
+    "SubmittedAt": "2023-02-05T14:29:04.000Z",
+    "DiscordName": "SicraP#4945",
+    "GenesisWallet": "0x5ed0f666e6c20f5eeb2214514b56df2adc47a0b2",
+    "SandboxWallet": "0x00e995EDdb056b13798402dDb39Cc6ca325Ea38b"
+  },
+  {
+    "Username": "Multimegacraft2#3695",
+    "UserID": "1096892810512318585",
+    "SubmittedAt": "2023-02-05T14:31:50.000Z",
+    "DiscordName": "Multimegacraft2#3695",
+    "GenesisWallet": "0x078941339627549c28680587806c6aec6a60c5cf",
+    "SandboxWallet": "0x288C0A43EB873E533CD94C0a542291a733451BC4"
+  },
+  {
+    "Username": "ШАОЛИНСКИЙ МОНАХ#6499",
+    "UserID": "1096905091862241320",
+    "SubmittedAt": "2023-02-05T14:57:29.000Z",
+    "DiscordName": "ШАОЛИНСКИЙ МОНАХ#6499",
+    "GenesisWallet": "0xdb3be154aeb741867196a918fa2bd5f704dc022a",
+    "SandboxWallet": "0x1C62274caF9755B6396175130C19c49325ACC7e4"
+  },
+  {
+    "Username": "CheRepevNoY#3071",
+    "UserID": "1096906198403526746",
+    "SubmittedAt": "2023-02-05T14:59:59.000Z",
+    "DiscordName": "CheRepevNoY#3071",
+    "GenesisWallet": "0x3d6b388095ee3ce805908d77308373b60e83c437",
+    "SandboxWallet": "0x12b809f6326e1b106ca18830a65bffd8bd4d2335"
+  },
+  {
+    "Username": "pelpewka#3709",
+    "UserID": "1096903053082361898",
+    "SubmittedAt": "2023-02-05T15:02:27.000Z",
+    "DiscordName": "pelpewka#3709",
+    "GenesisWallet": "0x67f5d8c59c2b7046c3828c6112597b11d2002487",
+    "SandboxWallet": "0x58a4cf5815da36302c81f173d6fe79207a0b38d2"
+  },
+  {
+    "Username": "SNOOP DOGG#8117",
+    "UserID": "1096906375247970434",
+    "SubmittedAt": "2023-02-05T15:04:51.000Z",
+    "DiscordName": "SNOOP DOGG#8117",
+    "GenesisWallet": "0x0efcd0773330a483e2f456d25d69311dde65e3a7",
+    "SandboxWallet": "0xa62f44b557c88509719044b411b35e3ab42e56a4"
+  },
+  {
+    "Username": "muizfoxcrew98#9553",
+    "UserID": "1096899197392916510",
+    "SubmittedAt": "2023-02-05T15:07:10.000Z",
+    "DiscordName": "muizfoxcrew98#9553",
+    "GenesisWallet": "0x0be8f19b1745d7eb3c98838d395e7d2918fc3256",
+    "SandboxWallet": "0x401e0154c6a2d8f31f1d9f9eba38233629e11be1"
+  },
+  {
+    "Username": "pettrycia1231#8371",
+    "UserID": "1096892507561930782",
+    "SubmittedAt": "2023-02-05T15:10:34.000Z",
+    "DiscordName": "pettrycia1231#8371",
+    "GenesisWallet": "0x8b3a769b55ad0fb6e07dc5a04a60f24d3b0314c8",
+    "SandboxWallet": "0x1f085966a91a1d808aca74a341eb910947a53256"
+  },
+  {
+    "Username": "Li_TiAmo#1644",
+    "UserID": "1096894211787329538",
+    "SubmittedAt": "2023-02-05T15:13:25.000Z",
+    "DiscordName": "Li_TiAmo#1644",
+    "GenesisWallet": "0xd200d1826a62395733e2b6e2f046b42b3e8f2efd",
+    "SandboxWallet": "0x416692c700c3ab8dc6b8a7689aa7bb52b7c8fd52"
+  },
+  {
+    "Username": "Chris tinha#5067",
+    "UserID": "1096905605714825256",
+    "SubmittedAt": "2023-02-05T15:16:10.000Z",
+    "DiscordName": "Chris tinha#5067",
+    "GenesisWallet": "0x9f5d5794a2887eb12ae69bd456db659fdd408e3d",
+    "SandboxWallet": "0x6e09f060b472dfe23547c25c4e1cfc9470a74cce"
+  },
+  {
+    "Username": "CoFFeX#2726",
+    "UserID": "1096894433137524886",
+    "SubmittedAt": "2023-02-05T15:19:39.000Z",
+    "DiscordName": "CoFFeX#2726",
+    "GenesisWallet": "0x306be6069e2aeb8f80a4e48bdfd58e4f2e2768b5",
+    "SandboxWallet": "0x24e8365aab6ae7af6eecb9492bc2597aafa38fe3"
+  },
+  {
+    "Username": "Electrosphere#4020",
+    "UserID": "1096899163712655390",
+    "SubmittedAt": "2023-02-05T15:23:10.000Z",
+    "DiscordName": "Electrosphere#4020",
+    "GenesisWallet": "0x14f41ba48fb875356058c75cfbedd66eb4efded2",
+    "SandboxWallet": "0xee34cec6d0ffcb9ef7b3e06a5009f4adc60fad8e"
+  },
+  {
+    "Username": "PANDA#0542",
+    "UserID": null,
+    "SubmittedAt": null,
+    "DiscordName": "PANDA#0542",
+    "GenesisWallet": "0x22f1CD8dC14a0074D4d104844F508cAb82254dC9",
+    "SandboxWallet": "0x22f1CD8dC14a0074D4d104844F508cAb82254dC9"
+  },
+  {
+    "Username": "CS-Verified",
+    "UserID": null,
+    "SubmittedAt": null,
+    "DiscordName": "CS-Verified",
+    "GenesisWallet": "0xf4076a304971E38B352682b88db18d63069513Eb",
+    "SandboxWallet": "0x26fb8938e22e736530a64b8e5baba24446091351"
+  },
+  {
+    "Username": "CS-Verified",
+    "UserID": null,
+    "SubmittedAt": null,
+    "DiscordName": "CS-Verified",
+    "GenesisWallet": "0x88c572461b8f198ef515aa471a671f52ad266751",
+    "SandboxWallet": "0x65cd78ef5f16140e807cc43b51a84b5402723aad"
+  },
+  {
+    "Username": "CS-Verified",
+    "UserID": null,
+    "SubmittedAt": null,
+    "DiscordName": "CS-Verified",
+    "GenesisWallet": "0x5fB47d193C3b35054c4EE5D4fa00b225ff94F110",
+    "SandboxWallet": "0xf3e0b655325beb1c08fe42ca519aa2596831f1bf"
+  },
+  {
+    "Username": "CS-Verified",
+    "UserID": null,
+    "SubmittedAt": null,
+    "DiscordName": "CS-Verified",
+    "GenesisWallet": "0x2EAbEffDD8f7AF616fd7EA344aCBf052884beDa0",
+    "SandboxWallet": "0x489163b7ede385fc0aca7c7c906493a6d8ce8166"
+  },
+  {
+    "Username": "CS-Verified",
+    "UserID": null,
+    "SubmittedAt": null,
+    "DiscordName": "CS-Verified",
+    "GenesisWallet": "0xCe8Abbf27a2e6601675FC6c8d48c550f8190A90A",
+    "SandboxWallet": "0xadcde23f65be9c561f11a282a5ae35b960674f8c"
+  }
+]
