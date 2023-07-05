@@ -82,6 +82,7 @@ class Raffle:
     @staticmethod
     def write_result(event_name, results, file_path):
         table = pd.DataFrame(results)
+        table.index = pd.RangeIndex(start=1, stop=1 + len(table), step=1)
         with open(file_path, "w") as f:
             comment = """# {}\n\n## Congratulations to the winners.\n\n""".format(event_name) + \
                       table.to_markdown() + "\n"

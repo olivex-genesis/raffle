@@ -1,0 +1,5934 @@
+[
+  {
+    "wallet_id": "0xbf9c1a09755ee4dec5cd30ea28c223311cc4b1c1",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x958a4190b4c385d5e42b2189526d568e57785ad9",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x152ac90f32cf87a1f5d47ea44380454cfd623e90",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4ca04e83c7247c327179769ca26b4bed34aabed6",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xb6e6f0ccae2b7d445548a85e1bac439e69b3086c",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xa1e84210239bad5571171a8fe304a90e7ffe5189",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xb6435af3bd9c398cf9388dfdaa74c233f7f7bcb4",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x392b0b4b2fb56f12512dfc8ad9f5c9643dfeab45",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x65989d3d8357f7da33be6ae27212ff68d3526245",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x25d5ed1cc2336ee4d48cb4b5b5b3c97ee061ade8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x76c87c15dff16595c938c8c04f8c453a0b8aa304",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc99be1c7d78f0bd8bf024131a54efd252ebee832",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf205cf33ce9008f3b69114e7db89eee73412ee02",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x90204beacacb2d585a8628a33bcdf23a27150c56",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x55535656dedd3fe8b7d9ca01873a8e5fb471bbc0",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x4017a2aa83fae7d1829f56a47fe29895620d4a31",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x89e52bcf258190373e015f88b7171182015f8aef",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x833b32728794f53d51240f6dd7947aa8ea8001b0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa1c9a79b9a10e7bad7864cb62f80e175054f8b20",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa31961fd1e61fe097d9f9b36732580dc0dd6ea1d",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x0da12c825efc692689c9e90e63bf80eb30a5c17f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa6e062f5a6adf892b91f8476cd6e577e36100520",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x5e679d5903809a62d6dabe2ecfd58a9722d34c79",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xaa6ad0bd2bda6efb4a0cfad36ba3037d060e170a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xdd0b3d010aefa1fbdc3f684cb3b960de33f9d2e3",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x8eeaabbd952a845a1910019c58a9d89dd667afba",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa02fc89c8e7a2f2956f3f296db24a768436c0930",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x917108266a02ed0954a602f1cac1b8dc56ca8b75",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbd1354203b3357521997c9d8ec135ff0ead7d602",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x4e75dcecf7a456f5a28729a1dd40664d8413104f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdf92a3bcb35d59d4cc815a1407fb9662669fc0cd",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x6808ce810381c58aca407d1f8e209cc33692a38a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x800742b24367ff3f900d825b5a28ebd2daaa9a54",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x6418194de83b4bbb940fe79e297285285ac878be",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xa14eb9db77a9261582d2ee1bc2679b4497e4390e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe7ff7b3481e6222d5bc60b3c57815a48f3ee4adb",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xcc98b6acfa4914914ff5459e43c461af4f06ba50",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2459a2f66dbeeb9376e0778cbdc8035b1fdc7537",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x1307fd9e3270375663db66b4bbde87af5778c567",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x0b0bddcf381a4a90cbcb1efce25d16abbb4634dd",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x56d862bd9a95421936ecf3b1f0291f550c01e5da",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5388489daa50ae64f0cf8cf3a9a075b9f92a4c02",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa8c2929e2a208326ccd6a1adbcb50f312c5d9863",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x86f47559ba97bf3ab92dd739db28826375a9304d",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xd1464d62321c15bb73f80f9dcef7edc37acc22e4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8685cdfd6d96c8273ca09bcbb6b7678aec370089",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x6d6a3eefeb9abe94d185b1b42ecb688ab1c443a5",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x352064eda42d36a9eab33a5b0cce2fcece61f2ad",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xec3cee706c117e65772ed2a5d15746466ae6f0ce",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x33d158c90e79ee925649e8341a6c2e5463a94ff6",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd720a45ba17b9179a11ba77aa97610b500ed006e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd5338e16a3b28d37330c79c573527e42a00a599a",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xb0aec4efd3e249d52566b7084c30bdcc31bfe705",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x0b0b4286943e076c3c0e9cb36bd22c726d20d160",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x6773a12f7bdcb4410d994ffe14b3f40b10ea2bdb",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb36448a8761bb8e7de9cb35fc71a0fdbeaa50efc",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x1ba9033de13f994f827aab04337d383b22128555",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x981047df8f2867246c514552677c457f9028cd29",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7d3990c6a568ab3b33a7eb8bcf9d9db0b388dffd",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xa1f945a18ba75401d638953efa357a5abdc6b554",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xf7adad2703b12d99d193d65b62ea2aae1215c52f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xdb7defc8c2dcd5ff7dcb884bba1602308c9a4cb8",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb18e3a7152060941ef92c2ad5872d76fc4091059",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe7f2bc7d4f477e8f85d9c223dd421ec2289baf29",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x617a3f6e4603fee5805298e5e23e4e98fd5dd653",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x60706e4d217ae2ae6cd378dab71b222e25d0c1b5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x732739de18df630b354ec365a927a4f4f2bf28e5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x647103f34619ab243057973c7a9f3ea7f28ae5dd",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xa547b34cb11ac670628b188207567e9f11a676aa",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdce62b21a8b1a9b39dd3ded27c876d416cc91b3e",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x41a69b6e53fa6d5b9739a910733e36f3760aeea2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3a992faf763dcefefe6341b48d8778c95eae5df2",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x0c48991a22166b17c655758ad382714cb1d0a0a1",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb881f3e60c03b052910c86174c9514cb98740cf7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7cde0d7673fedf3e8314eb92deca4d0ca8bda578",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x25c1674a82b614fa3459e4ce5a2c153e99d6325b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2d8dff1703b59ebd33a3b615700f2c62b83794cf",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2ce3294ab5efa702f4c37527cc060bdad4bdaf37",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x7682ff9de4b1f03b0b0ad6e240db90952c2c5193",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xfcd2cc7b7cbfaa23aec89e82c9efbe559d04f445",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa7a6107fa3668fb2051a28c3830390cdfc0ed998",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x3edd9155c2ca3771793211e2216b034100156dcd",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfadfe7192a09dd7d53f4c6619f6c382e583ec025",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2f75ffe98046e4a55fa79daf97b2730d7e707186",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x03e44389b831e3d3ef9fb58dcc2eb572d5b6dec6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x96e3baa591c9cf4d5f44dd44d02a3d4ce9290ac2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfd5cad34cb31b7136aa1f54aa9e598a904e14527",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xeb1a87bf97a60d6dfe221d24e8137503de90498f",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xc3e76da8b997b177a7fae00b8c2a46821fb47856",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf386a0e23f2483f984a2f9234963ae98d9fd42cc",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xefbe574e11c00e1402d051c99737c066fa33b0e1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x753c3718930d4b793bf030a408cf25fb2ce835ad",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xab53e38414509b29d2e950fc5709ac1836eed539",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x42ddfd96df95d5393b5effab3d4bf55699131954",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x9ee0711ca67dd00945e0090248c76a81347f3b1e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe60a897559c60bac2f036ea0b5d93983dca535b8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xf54a38168f47b8a0c538f6eec8cb25386dd41a3c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7acd9fc765ef2970a181ccaafe05433ff085e4b9",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x236a75290e0abbb8b436f9f3593228d61a5ea3f8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1f5ca53f1f91a583dbd39b7b1aa8e2988a9f0bce",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xaf2e919b59734b8d99f6bc1f62dc63d6519d14bc",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xee7ff1e3808231b172763f35fcbcbeb93c60e65e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3f2f860c5a276873f5a9f3c0c8626ac6fe89434f",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x532b2e0752ec5c145509ab586da102a114c79ac0",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x4ddf927ee80dfb89feae5c0d5ed97312db1f7d90",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x24f194f9c8c182e3547baa225e38789501f6fcf9",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xff17702b6e6bb203149849262c274b49705e3ff8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xdbd85d3373ce7c3954bddee710ed1a682b064b07",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xcf4af851fe9892669df98b4c74bed68361ec5639",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6e820fd0d6942a3159f9b3dd645bc585f7e43bcb",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xdf5a3654e2ad887684347074aa504f495b55a0bc",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x05897583a484a150881dac1db56d226de0539c7a",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xbb60c89e3765e8180631798053dd9904498b86d9",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xab938cb98df0d293983cc1aea00a5333610aba10",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2219d6b2c35a7f8f34d2b77ed7791c46eb852963",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x479369274afb1c8bf2024e4490bc2caca307f4ca",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x80ee067a861bdad2f24e96de1a07d920b74103bd",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8afba442e0d05c2f207b4992117504e172390882",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x83ca0d045680837d6306e093fa9c39ca83d87f3d",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xbf854a8f15856465c912b645f676c168ce2633b4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5f58c0f79828e69647c707ccbf9903d69142467c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x903a921234957d013e4a7731f7dd901ae8c8daff",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x1b3b29a05b0bd7d9674901c5d1ab2adf7022a1c4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8250643ebc399561917d449acf2ff11487e84cda",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x789720990e4a94aece62b57827985f2b8d9f0c46",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x79f4d3ebdcdba400942eebc2efdba1a7415c295b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x64fc8c50d3ae974bf9a32afb7232ae96bcfbb35b",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x77059a202bffa20847f924bac7c94fb386247147",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xaa7da2705ddd87032951b024dff685176c2d2ac8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe5c79572bdc8b6e35bdab3a83195812501d2e05b",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xa1cd9206a89436bb1cd60737d1d7f7b8b0995202",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x43570cfac4ee5fc682abe2a2902fbe1ce22a2841",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xfd6eb75ec45125311c2e64c046f4a0a993547afa",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x3d77f59d5a613cc5f3f4711b11d9d951a40a7a15",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x9c421d817d620c80cdbe65919d2441ff3560a640",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xcc0e876967c6f7d72162b489545fdab6f2b2f848",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x4968679f6a1f2333256a0dd71dce1bfe885f73bc",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x5ba54e0bad708e22c14fb7922d09892d997a6a6d",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x1d2f222d24676c3867951469b82e930232f1aecc",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x15af1518268d9638d8510a70ed8b2fe703d4a008",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xdfac42d383203238721141b7a61eada1c784fe54",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xefa3cccba989b647af1d68f666722df2ec57a5ea",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc36fb7bb8904eece3e73476e8b40cfbed5874999",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd0ac24eee39e7b1c9b56f522a4ad275130045624",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x09229bba6f6075f6c324a4495b5c44839a61aa1e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xcfe3a68c89e63f37d62ebeb1c50c560d5bcbed10",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1ea04a0607143d96e493590c4f73fc6297e6c87c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4a56f093d6692727f0d1b724b730aec736f4d23a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xba807874945df7e326969761e6401d03884cf6e9",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xf718eec34cf5cefdaef379d4cff49adf8ac32b0a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x88baa8e1555a3cfeb125ef3da3d5e88e633f865d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb2eb2ee0144535f3c376a938fcbfa5f9f69bcc4f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x31138f8acb06ae3e19c205fa751537ac0068bb5d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbbc52caad45cb8ffaee1f31e0ece19b63b5486fe",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe734436b7f60dd829c46a34c6111d67a33a1beea",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x06c8fcdb705473e146c82acebb77b70e1c879eb0",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x2020370ba01d951db6a7d27f53f6159c0400080e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x663366a5792d6a1ba4e291f2b17fb862e4535ad7",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x30841bb90de9c4295ce7a8784fad22d598c118b5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf73f9c93881b044fcffb1f82a6747e6d67c1ee53",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xf45c9242b417b88861e01b94a69c8b9b03995c79",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbee1e0268f248202d7557a1932fd64a722f72139",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa5582069f568e1cd91cd8c6f9f5d0494108c1275",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xe0a60bfd188594505e66005bc1e16e94cfdd5e4c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xacacc811fbacd406d50b222194fa99df3dc66c96",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd96c7612c8555a13ebff67373ea252de35ed874d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1f3303ea27526eb7713913cb4e3a49555d390611",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x91b74ad5cc30e9a7d5f82df87ca7ca7275cac79e",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x354360d81876bae424aded91cbd02c531c0ea601",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x34ee12301c3d9352f8cffbe782095496b5daf783",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x32a8eb6003e0972da43b13ac0bbb62edf81a5967",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xeab213b4989e3d2645d807440016863259baa74a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3c53bd4aa6f25301611ca7f18ac20a89fde232a3",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xc05444251077c989b15d5460490538c983277163",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf1d0e6348d64d287288b5518911a816e3361cb1f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x97e32fa74569e750409b0307ac99dc5df0bed964",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x7c3f6726981be1c95d77f9b06c9aa71df7dfc99e",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xaf2da4c3db485f27eaa42727dd44af209b477d0a",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x80ab296975cb5da595d28c782ec88db767925d19",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x956bd536f309d14f993c0b16b0a048a6dda2eccb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdbbbebc0d6b9f59a9c7424bbe05831e8d1fb97fa",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x757fc02b18e30360926650bf3f2efad1da86cc70",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xeeda1448391885c861973ab693520015875e6d1a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8c7e5aa2d768f449d167cced51004d7682b3990f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xed16cb47acd9baf4a7978e3385cffd61704d28d7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb0075a0fdf597d6d179ab2cb381c63e4550cbc3d",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xb0a493eabe54c3b8a0060e8d6d0803d7cfd821ae",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x28dcd5f68ba36e01b84f2a22707c009962959d25",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x585cc24ee9f9e8afec13a10ec10fbc709e19328f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x68e14a7f3a3e54e6a4043234ea2cbd2882971d2c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x232ec775e9cd4c96bc757dd9d375689eacebab18",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe47e1ac440a31a8c77c825cf30d9a91f6352bc84",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2005251ef6508fe840e5b34c06d8811552c3c3e1",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x34b245240acd6d191b1ebd4867fa2235355208da",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7a2bc55426c374eb8059a1b0bb818a73c926a1e0",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8042a1e006beb0435345216e43e5a0443d185050",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x97ca20e35bc62945b864f4b86a030b77ae25a804",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x070d6705234fe74312ce703222adc90481c1d466",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1b332888fe8a1f743f2a3a11ef37731350ef0333",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb3f3620039a0c3f3c906c44bc445ef4e372d58b4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf8e2daefe1033159d2602ba6ea4768db745fa02d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x3a02bf0104d109bf6bed85cfce7032d1ddcc8bda",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x69aa87f864ce5c29d80f0f16a2d132261251aede",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x715c65bbb9f2104603b8a500876f8b0febf3f9bb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdd7fa60f6a697849eb5a7c918e58b82388de1805",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9fa38a87463d01f2238aed41f85e8c2f8603b94c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x590039c1e26cdaa845b7e2736b93bacd2c531980",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xb3fc0326e9eae8b371e1523f9dc2523443ed31fa",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd27cf993e684131721ed31f1864585fc988113b9",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x15c8a67be2d58a252bc1d6873923ef9419ec5158",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xfb94dc84f7612565c013ec899cd8a318b2807f82",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x06f9607cce2e50ff6f739114cb331ec2b8fa101c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6ce24d790c59558de8d5fb9a062422cc988c94b3",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xeb99bc0f28bf88b32283a7bd0df97097e499cc30",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x78dd42e29892393896f6e19cb805a9ae8c575edb",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xa9573662f0d558cd171b99dc7d497f1b3e4e4282",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x8c9e06d6dcf580fcfc8142b9058c2c06686a6f92",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x38a50c81d9a291ed5c8e9af7629b2b5a52af5fb0",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x553b591e409c3948c1bec008b2c3be841ed72b3d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x37f9471b875553ef80dac61e53af3b96032d5563",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xee929b97f87353c7ce1f074c22da7620ba503432",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0f5b5b1983f38d60a279f56624247d397d311509",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xa59551f2276cb7bbb3bf664683f20ba2d6ec68b4",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xfa6ec5082b8540a4b22e187f2bc4518fdf3561c6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd6d7556f615cbcd329747e7b6a0b3b60045a0004",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7ce8998d936ea5427260e9b73121b959b7bdacc9",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe667883c54bd4a8c8979ca04071f16f1fcffe1de",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xef6fdfe87081da6acc6e4755d095b8c23568577f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x062f8e26ae7345e35411a41dea451bb1aa75e751",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xd92c03484124543d794df9249ade3b73d16714ff",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb794e4155e8aca0fd2d6e77aa9bfd6a1f04acc7b",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x9514e63e1a855178dcadbe608990b288724de115",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xc5ae30f554aa7a887f30878f0197b1a777e1bdb2",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xec9fe30056fe0c78cf880342c37d719567abcdd3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x375d80e6abb6d500635cdae3fb7569ea6159c82f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9c76d259af427e385bbe2efc37bfa1ffd28d2de4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x05d93ec016c4ae7a653fe79e6da7746073afb94f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xbd8ec8a5dbd85b6af67feb519dd2e512b0b31f30",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb0e1185ba47f034ec6aa8b3f31b36e9268bee067",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x737a830766186ff1dae57b3a552e92d690e3b990",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xec57d038243cdac140ded49e0925a23be619b3ee",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7f0d8507fe62a4c0110c0d99995efbaa6d3bda95",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x12dec6fd8fca9bcb0cc7779df3b58f080941b444",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xcb4081b1f39910287ffd18108bd3c6413557bdab",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfbcd56ab1a384e2a42f871e229fc60c92491532b",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x9e004f0ac524cbed7a7a115772f53551390d0a1e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9f9bf87dc03efedb4babc5ed2da75c9032a448f5",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x36727183592bf53d647cb684657ddb9dbbc3530d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xbfbf8c4031b56de7e60922e268ca4bbab88d4c7e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x3ea9541155454fb6e73199cb13222c144bd5b399",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x329028d60062fe50fdae52d5628bb08970d7c5b1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9d3d18b43cfcf49a8d50bbf45d137a666c6c64d5",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x6ae022886fdb0c83b5cf767e3839101f043d56e2",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x5f39b6ea0b988d587b5785df0188f433b5705037",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x3db26d10b0d45fc9eeb8750713c541539972a9d0",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x748487ba162b5c2eb62bf0dd40860d2d738d81ab",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x4e4e018514c72776fe0f48bdc13aa1aa49e88f61",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xcb1957aced986c51b84c44a90a779f60bfdbfc5c",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xf17cd420b438529c27eaff9e0ba10ef3ac2560ac",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd3d27b35bf301b9bcb01e0784fe9fd1ee80eb04d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd512ffe85be6f9ce44091c4bfb474f0293e818dc",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x46fb16917b38f86ab128cc946b45b250261848ff",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x784a9d0d447dec8839d6ebedeab7b0add5f608fc",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1e9ce3b3ff7fd949573446d7a0707433a2a16aaa",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x421087b8a18424b5a8a1d71bc060086a34bbf91e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6eceaf00f6478dcec6db790fcb6a8d36c27baf22",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8d190fb852fd976795633c015be5005171336bc8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbd7b753ecd6a3d43f36a4a05ee5a27fcf81aa986",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xc0209be9f25ee7a2406a7459eab3722635b824ba",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x13d98284ea76365953aa22cffc032b333c97b9bb",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd27e1b88fd9def87b89a3dd9094f5b3fc18653fd",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x40b6d9400c7ea7fbbe38d851727de2e958795c11",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xe5e73a8b4f448cbca4d4396c8b12cc1c874bc198",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe3a1b59bb1e883e43476245049638e747a87913d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x383896559a2fc29a37f88968c345c61e5f16a3ff",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x2294476a8b4d6c5b7f87c3a1e6c823f6117c45c2",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xa968d112355b87e9d98f934a48586a1fb11f986d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x598b5f5fe1ecf02d478385fad7c14ca968c516a8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd085d93a7514355c5520e4293a1950ac6b223102",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe0c18c32f0838d9c295d9cff433f2eff9deacc2c",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x69c80134f74551c42fe032dc715a01144352637e",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xb738ea31af9ab98311e71afa8ed03aebe4456910",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc56f213d13fd7bb71a0daee7db21a51e84f233be",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd0b4245460987055c7e505a5fa8e3b26ee5ac2fb",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x826bb72a387b8e63420ce9c97464aac3bf799c40",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x762e952805612a7f9a33ac722f9be3bddb5de242",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xe84b8fc6a88cdef4000f62ae38687b9c53b18c01",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd2be9a87625cbc584e52508d1f3eea9c174a13ae",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc0628b9a751120a91e2013bca53f353d5acd5f31",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9a5ec39dff817282947b655c46a80a2d8a0a538d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdebd290c9a05063e53b2562a1ef7779c2cc2ec06",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xef520ebb5ee218fd2c20f359abd2d35488231c5c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x3f30a175cb772d126b256a8a3774a9332020a0ff",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x133255db23f6b03c15e8a4ad37c8cc51d41070e8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x02432546c23e8c39993208a4e2827f443b3f7206",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0188c71db6100a0397da10c180de2370fb976453",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa5ecd731435589749d9985df2ca0ccc0375be660",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xa8d25ff2ecff89d1d91443504795141097765912",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x66bd73a7abda48ca64d83fb5a8cf6395feba0cb1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8b7f1324923e2d64433e5f2e1bf2b232ea87cb60",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0d54b71f36777d1e47baea8141805869919d94c2",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xbb56b95e04f33aa58cd1faa118743a0f0346a4b6",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb5b1394a9837aa465d638b3f0921a6f7b0fb9fc0",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd3551e74896c356d5334b5c7c3e21e46662ddc87",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x42aa19246fd0067cf6000094c862bbe94f02654c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4eb81b542e6c43d4e97304a2a3c05cee7f94f882",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x85bc36b91f2355318aac81e9b70251d5e9c173e4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x42a9fbda0e608f76383426355d692ca465fd9750",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xef701aa9511abc4fe5838ecf14c1db80aa13d09d",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x97bfcf95b940e46990a42fdc21812be84442ef74",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x555f0fad24c688c3d9031fe30a53195988ae53e2",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x2cb977d2d8e512976b492b19d6fa0e8f7421f736",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb6dcaf4b74bd79c86b67997a1bc893eb7f4134aa",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x15beba4a6370c9322aa81312408d0dc2ab3eeea7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc70fe10cdf99151ffe9b2e24ee1da97fb780714b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfb59d7fb31d5cf5ba2810b09a7da63e84de82d03",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x28477fc160829e0cb394b12f594392ed02975c7e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2d8d61e861d7e3819bf210cfb90698603fff5487",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5cc09b0fa8ac68f805c4a7d08c9d5e255116c66f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4a4ad5fc2d488e45e9400b9c286230d7bcbe8fde",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb6ae340066acd36747a0f61555ae50e44785c53b",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x2be33f8d3a0e01052aa72408b528be1b98440615",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xef601bb9ec26373f62d731bc5f8378ab59e33647",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x03ac43c67004715353d7c971992c396cbf618dbf",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x255a03390e9248844203643cfe8aa888c4865af4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa9d68ddd7e441219412ab5bada1e24b3e3fb26e6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe44bccd274d0551a6e2af33cd89d7d6206e269dc",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2a1ca9f8a754a78291adec9efd30b22185333321",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x89ac037bb70dcf1528ddd1ed9628ed9826985f43",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7ba62e5bd2c21fad75294cf689013a4713b501e8",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x5d32442cb294a2713c9ce93d10a8a00df88a3491",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x10be54dc94e74025986b5ce8099646ed057b9a92",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x97da22111b5c5975665785f0ab90ba90a842edc2",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xf405f10fede59e1d7350c3a3ff8488c33a1f07fa",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x10caa164d04324ca933a88d9611d17b6ff2f69ed",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8350cc084fb91e7066be3483db0741628056c80a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x594ce4db2b376528afed350a8bf329cee23304d4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa47200d4fa92570331441d0b4790295b6962d96e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xca77380d0caa2d2eb484a4c0c92926764ca9587b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1d564ec806cd37f4fbc4700dd01c5bac53ced51c",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x628c10bc9b27e1215f68130c26e90c2d21e2058a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb94305a4f8473522a05d780d619b7f914d561e27",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xca2f62ffed32d7dc71b64ff31957ca14e2564f77",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1b2636ed5eb4100a0e36e63059d1e13880c473f6",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x3e782bb18311f53f3e7892c4e2f4941381a880a8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5f83afa9e23dd0894a8dc98d87e27af32296b6ff",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x0a5383e455e60b3f4d283214d18bc183a17e58ad",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc63dba8922df0fa6c093ecfcc5ce4ce648a2541a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfc0018630f9871357e9c1da4844098192c4e800f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd77033a7f57ebbadfce5adf9ab086bd4c4b6c509",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x822c22e52e4da09f2ab6a94d60f637fb7ac09a31",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa997a5e0cc73c7a3bffa645d74491ea482b90d7d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x917be075595a04a7a37e7f5450433f77a652a489",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x293c48a2ddb54c5aa7270bffb4b8273696dd2b03",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x82a5c4cdb6422881a2fc76b286bef45dd3f173b1",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd51eebba61387d0150b8b5b708cd04bfe5a9c970",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6f8513ac0ccf76d65b8d20dcdb2355d397565151",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xcc786e213d3e8137fac31fd9e1bb7dd177ae032c",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x35cd09e258cca78ec264b93af66e2d5685f23c52",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb774ffdd58932cb51a055587fa0396ab526c89a0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9492f0599f3d5cbd7400a8fe3344070b9d938f23",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x160fff9e78cf10fc6193c1fcf0d1ffd890ea6386",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0759c5245bf52493a706ee8b70fc538f624f3915",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3fb3a89c949c7965b790c73d7ae219aa5cf088fa",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6b52472b562dcea406ef5217c2b55a35e911efcc",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x9cc52988c3329d22c79bb9ba10ad791ea165a2c0",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x613faa5b7d8314a0fefdefff374f148fa424ff0e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd3d0183687f196309265b5e97b67b1d421d28443",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xb2af4a4acf17e1c7f64a26fff17532aa45887aaf",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x08b4224f542c4a6fceb4345ec67c79ba822315c5",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8b50e34a2dba65b632cae106a531157bf676b958",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x4c9d50ccac81b7473c222845531dc37f1c416166",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd6547278bb53a261c0460bf50208528b51da311d",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x56bbf599aac923924b2f6dec92227b49644106a1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x34e608ce2249bc15f8ff224fa1282907904e6084",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x4876e7cc0ee8a13655c8ed4d4e40287b45c288ad",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x25b323c6b6ecb10e955ef24aae9b1ed82a5307ab",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x780ded412e072a56bbcb7249acba42290ba4262d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x20757daa691900004346f30e0e17596d89872c23",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x26c4b959802651f45c2a9ea7199e6e33208b7154",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xae9e6e806838effb20f1ba5c36f5e79f4d501062",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xef10de1681c5457d770b609778104f433c3ad5c6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x704b8c9a0acd1556d52e09bbb8fb125b81fafbfd",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x110ab03b0b0f07727003abd4247f0456c9b47993",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa23fcb4645cc618549da1b61b8564429c2c32ff9",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x85d763dfd64b4c47a483e4823e813f5a1c96eaaa",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xed8318ab46385bb5587480c5911f76d2915961c8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0661576f48a42b902d5bcf05265fb555477c5a44",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6c2fe0e1e45b7c700031de851eeaf8e98d6badc3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x475c163031c79072cc632673d4473e2ecd400033",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x6c6632196956f2f65da1131bfdb82a3b9ec6df0a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1065abb79cb7e72d10fca816b5e7ea1b25585a66",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe3b3c79ed2bbafc750c3276e778e388e0763da98",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x1fe30b88676dad9da0584f06fbbd2edafc105194",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xea32c85c60e7511f3a2d7e17514c56fce650bbbb",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x2d5e62c8fb5a0f7832f38bec184ceb9caab4aaf5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf67acfb847841bfa69ab2d9d80f93db3340e42ee",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8c51a37dbbb8353e4d48370f45da4c48c587cb31",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc8b4bd32a969136f40570a8230a67270f6859c60",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x849cd0bb88aba295998d685e2510039ecc098f18",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x69714893ab28b0fe510bfc411cda1d7c9291d7c0",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x06933b2e3b289d60119475cc1071ddb6bfc64193",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x8c0a10a977ce8c7cee4766239175bf49ffda5f43",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x52153907ed908a408c858a0ea81f8c9d5a22c4b2",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x35ff013b3be419c80cbc7828644fb377d61aea5d",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x4daf4d305a3792dc99ec1fc82c7e13c42ccff913",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xddae4870d89d3677662ca3cddf848c547ac52b8d",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xf16339c0e76695647a53ec63526cb7a7e4e5cb2f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x05823327ce8b43f0950529c8488b5df644e3c2ef",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xece402bedfdbedb214315126ce46abbcb91267f7",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xf1f65798367968563290f29d9a608efc1801e0f2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1da158559f54d81b13dda7b9602cb5e09468ac09",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe92d2a4255bc7e468d355644d24ec5d9ac6ef13d",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xfd8e6e1dcf764e9c751dab7778c10546fbf3ccc4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2bd2362d05469f386d97fd625ecaad8cf5341bcb",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8f226613d91be66e233b618d87c3dd0cc874a1c5",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1c9c4a8de0b0a3641e05a6a508b0796996b1d075",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x58d0000b528890a6bc37683911e4d5de63768f54",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xcc614c9c5533e8f8d9dda498e38feb24f19b154e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0e601391793c5cebb3d674da01eb5f43c6f85946",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xb90744e0c2971ed2e192f3bb0004c7fe6102df1b",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xa7259f3138401412926308c0e301b9d4d31657e2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5fe49e266cec93bf054fde9bdd24a81d0373d909",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xbe3352ae7c20161d4fb1d0dc2aad099227b5f246",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x53e6a5cab2f2efc4dfc55bb79eb0c7e1b88da2c0",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xf570a1c0072a0f7e65934672be333fdfd491c2f2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x002813b0f30ebc35b3c3201b3716e052dd1cd1b8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x15fc86a26a7935ad757d763b72040151e73a13a5",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x5c0466ab90c9176a44fb98193621ac6b75d1c5e8",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xfb053c5d527946c30a171df5a2a7f9a8d82947e7",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x0476858c6bc264ef8701c9cf2a9dde1c5a6fba7e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8d1bd1efc2549570d03fe3b47bd4bd6aa7b737ad",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x60fd4000f72389a18cbaa8021772e552d6f92f78",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xf23772068904e2f50b6da25c61fa4f3f55e094bb",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xee51c05aeb530e1c2f70a7cc116d51e5b988d0a6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x84d85c4f3c1122ed5692d2c90ddd2b320b753c44",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x9473cec880f6a479a45f6c1201212b00caaa0f92",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x80bc0aa87687f1e84e3b8c2b90dd87870ab37c5f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8f86721bb8c624e83c7bbd9f2d1d919b342f6ec7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x5ab2d1f5069dd2f9aeec3b0a8e923b1cdbe7fc44",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6073b187357c6b2970da8812ece1959b3cce487d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3369175133ffb820a3cfe9bde77342d871532b3e",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x2911ba335e300b46108e1fb5c8a8dd2c7cb5d397",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9e9e9840448622ec3f2448e6e8b4bcde76211140",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x1ebc80296f7159bed2eecc97570512ae42700428",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x0c7ae85c963dbc7f1bba6e339aaf794bfc12014f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x15d9383ed42a9c244a6cff95a7def43d32b903c1",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xc1d3cf3c392c3ac03d71d2577e8d4829766cd4ed",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xedb245c6f8cde2c2932d0ece487f3051a69b2067",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xf92f571fd4ed497f672d4f37f46ee02eb13b63c8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xeee47c71d129314349cab7da63d4b6fc9daffd72",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdbb9d557191501fd2cadf5a9fd80845f162d20dd",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x3f2a675fecbe052df8a229a9235280b2e0f10b28",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x3a9c2c192d7fe8f017c03badac39485c1865bcf2",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xabb3d44f8af5cbf939b433439937446ac50deff4",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x0f89fba40d1e8130732cb96500cf1b93712380c9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x97153b6ed37024ef3410bcd97d676036c835d293",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xcd5e67d65e0d7a35618799d26716949997bd99d0",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xcac0f6abaa645562fd16676d99e55575f8a89020",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x55ae9699a3d7b776bde60a58e44e798e2c785663",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xad468e8336182e2cec7022f3434f91227c33a723",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x60d608703926341c20eedb9e9fae2904aca744c5",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4e68934fa5240e99f30c3279efe2fa7465b3c267",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x83c69c15824699f40f7a5af507474ca3b0a759b0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa73ee74bd95061e60907ea72a5a1d428c4f56680",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdcca30d0951f1ab6d098ae8d63d4b804e7e22a76",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x21538468c8a18886c02f91e7bb79158760034a64",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe00387872306e8dcc82572a7759a17bf11a1cf7c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd5c4cecc72e9c63e55d7fc5cd358d8b1d1839e79",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe2c72dcf60ec2892fd3002561b730b8b6c750eed",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x17d3689587d72e189e9eb6309a1cb7d125498796",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x9724cd9452939872ea02c8099db7be6ae9b5afd6",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x688d2e8ccbee728848302d2fddd08b68bfe7d3ed",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x792300e01d36e65e47c2e92557c4248a91e94e31",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x10d25e3be76901bd4c3640fd6755ec2333e4cda9",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x46079e02bd4555dc6a0d045447edc45032e5acfb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1e13541e40fa343f13a397af546120bdcf4cdc7b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xeedc57a8a24f9fe798c79a7f9e0e95e93a470341",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf5a40a74bf78150b41177fbf7476d395900d28d6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x794651d6d4bb83a08c78db28e237eff0b824f8af",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x2c5d842b3ba332734745a3c329eea5f3cbf6da80",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xba6b9b2a01a73bd0aa2f5454df2b6a9a31a416b4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x93d8ae1ba70874922ba2642c8710287fc3f7ef42",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xcbfe2b983ceb6dda33a1c4a3dadf3059c95b6b61",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xad4f7eb835b02e371ef6cc5152c71cf8b62928b5",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x04ab4c210f4d9814cd12a8804d249ec387f8ec61",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x84e4de37b3eea76251952f87575d143ef1b3093f",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xc50646bbbc3ca1f123dadcc890b0f617338dd615",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x52f714a9050060f49de4ce3584c6b38848cbfb4a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x38bced5db13be3f6e21c33a7325a4a1953da13a1",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x154c080ff7ee10ea3a32ffbf0c764d6c4013f097",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1587744bba99398688e577cbd1da3131f8acdfea",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x1584df90cb8ffda66d0d3b6b64ef7bfbdca191b8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x61c533bddbc717c1d9a93879ce27f2b7aab7dd2b",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x5dc8fef741f4d1edffaf7236ba9d4eaba39eee4d",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x558d820b93b7e8f2fcf1a77101304314d7fc4191",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x567b10ac09c783bf5606da7a1684902460370064",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x66633cc6b84cd127a0bb84864c1a4ea0172469a6",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x382ad2909d8765438b5be23ca620b83aaf5d18a7",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x2574ad94bf77863f3726800455bf740beaf66122",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x8bd01560ab1382a6600a792dad2365aaddb28ba7",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x0c1863b23b7b1c3944d14fb1f0987a0ef15db366",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xe424b1ab531ba0eab1551310c53fdce214a705ca",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xbd80016d8163200fbc0b5f23a5455e55f02033a5",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd3e92c563b17d1c8a7024af80d376d268e620078",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd06a6028464c543933933f49a417611499eebbab",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xfd837e666d4a39dd3500178cb8dd272d71ad7ec5",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x5c7fb009a93c556e889ec7b7dff3a0eb9a3645dc",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x11b928f86e79048c93edd2c48e24986d7d36f655",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5f45ea4d9ad28b968c50f1e9c6822c1915022ed8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xbaac3d38261adf7f25483443cf2381c17ab23bfd",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x20b728e414528fb0c1560504fa235569e6116f24",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x137f3108e6b61f519fb92eb0d6fefc19993a0291",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa3a3570aabdef6c3b2e3247a998e1f536fb442d4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x085f66d0764c632ce8c1f2a41531909bef106c75",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9c6575574e47d9d9a8e6f6a3436da9b15931975d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x14dadf66579d2c696d5fb675c5dedad554df7b4e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbcdde113e0be48145d119f6ec87a78582cd1398c",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x776f56af0a0daff90cb3578c4b8ab2a6c9367c6a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8ccfaa2c191f60a5a625064ae9682bb82b1c6d94",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfabde5ef09b2415535b6c67999bdbd7b02648eea",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xae640b2858e6d546a55644a177deef2f631b7720",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x45d150a4c2b899b3fa1439933b0c7c6919dbd137",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x006eede69360a1c63a6a6210a9489a869f2e5564",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x839b40fcfb38c4f018ff97b3b9d5fed75d1b1dc8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd4e673945c2702ff763cfd76343a4ff8ea0b62db",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb5fcc1c11653566b83fd2ee849a3337592d28f76",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xbd9f2c1ec0b308c016040a8b000bf5efb4f0c32b",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x74dcc6d44d4c8486ace698bbb776d8ccd985cdfa",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfbc7b8bc5e21c420bbb421fc784d0a322f29a181",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x81c35ac5d1699884fe88a7812c6c8e4423d03d74",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7cf5431fbeaac6bb1ff73fd9cb320ddc6dc82816",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x476d40bedc09872d7906faf096fa69060e42b2b7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x6f0e59bb1052ccd264e0528d9abd488805566951",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x192c8786b305e8f24a08e393f4ee340777603440",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7e293a6872c0f97a8d590640339ae15d0e1ab5fa",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9e605f197bb5c4a3bd1c04e19ffb90f7b679d552",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x42109228582cdc6a734038dd18c7bd485f576382",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xc2bd6606d7c03e772379a56663312a007f4b1514",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x28e4acb2f711f1971a309d3b5995049b0070f3c1",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x7d3ff6a22d9c4a7e53671d64e4001197bab9b380",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbb6123d3da0da15fd0c4ded14a28cbc18aeb6f2e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf697e6e9a66fc20bbd9d6ab675cb20011f1f94d7",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6540928f03ef5242a33dec5fcb92651858fb86af",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xad2866af3354061066a808819cfb8401c3b4128e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6e39373a16507cd1431d7826fb3b756fa902fbbd",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1ccccd7852ec468bb3416eeca231bff80010b302",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7857272d341f96186c2b8904c9f7821e47c1440e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x80c8376d1d0ce96bb7aecdf3fe2fb46af49a9e34",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x20492b629c326f527a6157fd3882613b368cf645",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x2fea62ef2b301a8817553ba291b4b776085c2864",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x0cb6d103cf66e7e5f622f00aa3863d5fa1d6e484",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x68a125b7b70c99104c7f3e2357635fc57d728216",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x23f2a65bab0aa0a03e7a9f7bf4d5cf7a0605aaa1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x940e9604937e11b3877da152d2bcf89942959ad4",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xd93eb545ccdb67fd86115bd7cf41b8f80b7c0770",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x26bff9b2fbacaba382169a2f5dda28cb3dfc3570",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x89bb1c6673fbdeec0883e243f1084f1fce713e8e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xae5252b7d6603af2fa284e565a11e3175ef84a9c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x03358e766d67e98eec7913043927d6b16b75d14c",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xee1d9a60a0a0337276af09d650eb3001d20ae245",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x04e839508da8cbc4eaf0f3e970d062cd02796382",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x54b250b1780c5d3342c10dd84a5507084004fefd",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf02b61a65686cafaf3c48b120808c1a22065e346",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5df40df4f21294809d1f4982e09a234e611e0f5c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x021eff929b4bf901328ee24b78a6b126d9d673a7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1946cd8b2aafdb9918a2d9350bf8cd6150bb7c8a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1eb38f5978ff99a96c73b602b79ab1a443ca4132",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xbec6606a5c665a176db1300e24d7f0afee98e3c4",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x7806ed4057a2b348a34224bfdef58fad0aede640",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x41d2f3add533465d1038bfac72855e8430f92eec",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xce9b14aa7204ed0a43da67a04f4b574ce8cf9617",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xac16aed33a1ac9686a59f52f0046d85fdc518873",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xed9bdc79be73d7329b0a244dcbc5ad4e79e8a809",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb3ad416c01a83955159e8e6bb5fbdde0730e51e2",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xcc4ded8137eb8d7d031e30b3e4af49c9f56d55dc",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xff805089767f34b80bc050a9c57593e113e4c21b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x945cd3be876cd3807000b06a47d1cbe527cac34f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7c7105b77718a017627df9319876ef5994e1139c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x0bbdcc36f4c2d74c018f048ccee3a130230d79b4",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x033a96ff3063bb78666d868ac819bd6d0c03225e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe3aa50f1e2fb057c31448d788060417c5fb0fd3d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x82c1e79afe4cfa5b29795e3de0e7f203c793e6c1",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x0007550d32a90c2e498b7261139e15ec873e8502",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc696aa72d1c07330d89c89912198ab79bba2997d",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x646243faf576574d26cef74742b5cb0d0b1b60c6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb53ff1b9f453033076e4265db93c812adcdac167",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x18ff39fa00ed7a3253c249738d01e6b738368aa1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xcf9b5cb8aec81d8aeab6cf4e62de238e6a7f82d7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x48e95d75c61b271e0bb79ddeda346bc89da8006f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xffce9ab11f7d5c98b26b07a32b79697b61d7c085",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x41265d39bc49ae8cbecc18c90ff024f591ad29db",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x3f1f6543e9ad0c810403b5ff66bc0e8a638a9e43",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xfe1cf7e9c70e121208d1bf3e95b5364c8eb5a7f0",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x74d3f60fb411da932546b825562cd50bf1300b2c",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x312bcf438e6de973c09302742056abda25520931",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8492ac0cc18b122234645731bcaca1834bcb35dc",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x7a1af60673a8e437f66000b47aee49a4ef58c739",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x7122195248a4badb14ecd759468c2dd75b7ac304",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xbd9fb60871bc6dae10d77f146a37f983bef9e0b3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7eedd8aa02a4f9f0e0fd5c3d7aac227aa7ba8f6e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x9d318206320f3a5b526be855d865a6ea657541d3",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x022ea94ba0405bb80393229d89e267b658f0e77f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8f84765972fd6f9af500f3980629bda7cc81e666",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xb09209db8a7e4077d10a8aea927ccf65242cfd9c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5bfc103c2674d88f8777af7ba573c99989d837fa",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xcfa81231fb7e7063af38472b0f0b838375856744",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x71ca381d17d0ec2c6c5dfdab2f7c18b86baff55a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0eb0ecab222cc1827966f4d02037c09d21826708",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x15e7394d20fb0fa354922784fe08356bed0503ff",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xc4cff72ceed42181cd695b3fe58fdef8dd4a3570",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9a9f73091131786d090400a446fbfd492df2ac84",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3ce08ae72800c4ce54fa2f4ee21f5c7d867ff6ec",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd2da14a010c0f8906b27f9b81497b6faa5175de2",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x0ce85a64ef2ac2cc4cf4af51ecc78cdc5fcd031c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x0a326dac1db8fba4e00e721727ea430f50bd770d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x674b56d48b1403afcd2b198840dcd066af36a027",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8bc93fe19e34106ac53eed4fa15c25cd6006934d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x69d96409e5bd5cee6965fe290f0b50796dd39c6d",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x9d6590e1d9a2d799d5c9b7752101348b064941c6",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb0abf7b22cf94fdab991b8f17398a405a94701b8",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd584c45e802a9c75d9408475c32752853e659a27",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xf9dff5d16439b7a24419be1484abd50e2c60e620",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xedf5b21210a046516d5b906a2396e3e5093865e2",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x3071f477561f2107db0fc80b68c3ff62f9012e5e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x69c12e2ca4886e7e5945cdd9b2be2e5fd89532bb",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc6fb6f2d2402d9c9a2f593f49467260a7f6c5184",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdb1ac1d3cacf1bb80e3597bb0ee3caf52d266dfa",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x330151e84052213f90e19d78ba2aa26ebdadbd51",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x88da40dbe0081b15672f29669ff31f0d79e2c5d1",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x4ead54fe26ad42f0cf76e925a36712931ae77dc8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6d2fa2c2cb2f224ef49f87d57083741afcf12d91",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x3fed774a7c9630bf2da1806425206d4bbddab0dd",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x221d7b13205ca1fd7493be8d8104cc7e99cd55de",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x57edf1d08fc10fd6027198f09f07db36eb039fc4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd3e931f7150dc744870567b3e7f70b5e5e558c25",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe239b3d8ee1906ed368a548be0e0911b6cb3ab72",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x537454f97588e73db24f30623b83f9c45ac7de81",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe1a03e44d36c35d0f7736d3dffb02810f6d36211",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc436e6c73ac0f6da41988938f404f30fa3b3b316",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x157d4cbf7dea9a574e4d638c73a5544a961c2362",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7d40113b02240e9ba5092f22ebeaed7235e2c610",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x58b098dca8145cfa8c8e4bc7495a613f525b0028",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x14e3851602229456ce6945deac915c9b2a132508",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x94a8b3eb13b5c927d3256a7c857f39c4e80a091a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbe314aae83e93bc89b6335fde8bae505615e59ec",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8ac4ed6897e186c2055806a76b6a26e5026d8aa7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x94aed54b47582dd3f8d270862ac457a0a6d02b82",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x86d14e06e8826187dddfb69683ec9a3b1eb3de9f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf0603c64c638839fab8e25b33d81b50df8b3fd13",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xeaa84703aa7dd50b8292c67e47aa672397e4d3e7",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xb2c943286fc21db5cad9cec6239b0bc97566dc6c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x51e1857025d9f3995c0db7c0ccad457d18f3ce83",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x3de62e3246d4f23ef14e703764b37b4125f73481",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xa0f8059f289beb7bcbdf33b4cf944f5f5e154203",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x8aa014231171be761235a16b78bccf58e86baa11",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xe5e7aef9e0e5aec9b7d29da767c5cca095a02541",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8dd6a6efce1b55268efd126b58818592b510ada3",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x43294fcf6cce572ff488b74e7aa9ab64748431ae",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa6fe05762d86b1598319c466ef16bd2f628ea075",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x13a6fcf17523451716e768fbcf23c150e81d3a24",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd6acc66832122e3ba56084559cfd2bdffc54a1ae",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x18eebb1ca5ab648b47f5616a15e0d552dd606214",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf8e292b42c8812417efb240773fd288aacffc297",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x91d73e9e176c7f8e13cc36ce9532ef4754567157",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc0af1729422694bc81eb407e1c40edc96cb1d5e6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1ed77db5caf5342035c62e275f44e42c2ef2a6ef",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xbbc91096961edd3659d136f8ab3cb8c35b6a88f6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x831726cb1f52951a729c68e322748df7e4896311",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xab0a2fc0747c9a7f12f968739da737dab4bdfbe7",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xe594740a4dd1455adb4eb01f1cd4d7a265e8ced2",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf0c5ae2950d2674f91e976dfd8e6d51d6bd095e2",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x35af8de1192b5d2a3a274dbfa28a56574adbf014",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xbb13ab214ed84438615d888d314c3e09c1d2e7e1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf5f1f5929cccf2879f56754a162b840329b0fdf4",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x608e467fad5492596b27223514e69ecd31046f5a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x045aeeb493531d48d1c21435981b4ec5d5052c47",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x92c20f00d8dc00e31062bdca5fe1eea607c8faad",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x113607267004cc98502e06a3c3abd48f5c5fe645",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0caa9162bc0b69732f37f4e9d9b36d98b201c70d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc5398ad3b30e5b9d9eb98cbb8a07529e5b365dc9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2aa6d9fd905e97c7cb58df50475cdd13676c0285",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x531755e002f7221e143c93d4a0a3085b386c6f19",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x0a9fd20fc663cc9afa28699959965a2a2dc5aae3",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xc00301da79a07cfab85aa85d96b47848381bd452",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6466ca6e7c350439a63ace50856950f6764d8333",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xdcf8d0b92e895900fb21f7aaafc2bb70ae72de26",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8923cd065e006ec547c123a9e2ec6fcb6acb94b9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x18346e0bd025981147de9765b1e6fc25b9ff4614",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x316be0f0fec72782c93a80fcd16c04a25fea1fe5",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6955c7f34863e9783510e37c879d8fc3dd3ce8f3",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd566d24a4973eb9b699a6c28dfe3a57636d2eca2",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xaea1260a835ce186c4180b444792fa19151d694d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe853ad4d11fa0f9da7ef8f620b397c72f5cde37a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x08ca8d4e7b2472d98bd3732e1807212b0cd53250",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7dc3b3d352e0f9d4f5ec23049386287b18f03f63",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xde83a5b69202e8a86a8ba6db1df1b31653254df2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7e222f65ab279507b4124ba450f13f9758212d42",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x03bd5be32207cac7d7dfd9a48cdb11b4fa43d45f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xcdafe8a77fdc4ff4a8a37505d59be6d2c6e39f3a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb3a267eedfaef313f3d4d85c092a3677f5fa3936",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x27b9fd116e986373b1a6b51928fc115291a95530",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd7e20d59e36198b4dfae1f38c28ce3bc2fa6ffb2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x55be9cb776a3d4722b9da3b833c247a82ce6d151",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbae894c4077872b52857ef7a38090370ed2dfe6d",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xf26365a07155ed7fd5f7c648da7a7a0b6d2025b3",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x140d9fb266aa0c399e2e4b89545b2d80720d7e79",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xccafc43537ee22e829ea50f091dca06f6ce0f9e4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x5482273451c8fab8588bd58a2f3d6732e911ea62",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1f95be5fc86de68488e9179c48567d28781706fb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3624c6f69535d957fecc1f72940e3ca98e2f418c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa10e6e7652b75c01b55f7f6a44dda5af2b0071d5",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa47562385505c7eb0be5828a07ae33a365b38db9",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xd764d3e4bf7cc1c31b1e30b1977eae3c3e6f9472",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2f3a1bf21383d77ba42548f06c3826aec72ccffc",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x214465fccda069bc82b6382f3043fabbc851bbb2",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb333e785286c031cc1ccaf2a09300abf79f4d2ac",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa49b001b5f3000f36ab70f4dcb07dafd7d7871cb",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf231d83109c2803c355626ff247e63a3a8669717",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x573ade8d9140263810102f79a50944681c01f53e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x5195682f5642eaaf42777b1559545f9b6c1e4258",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4daf440bb1ec17628dad45ed45b726759a99271a",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x00ce82bf491dca45989400a66492b814926f784b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7c65e0ccad6821eaae64fab40343918ea5822f79",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8f0393eee621d576f57d6448565fb02c6d6f216f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8dc8db18b2f34338e3dfcb62681f34bb67e7328d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc074e62cf0e9339a7ede19a8e5b04be1fd3decef",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x483ab5854cab0846f401666525faa2c1c3c5c534",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x2f522d9edc1ee77eb08bfe36d11ace793165b187",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa157389e6be016a450c885ef420e5ecfa91dfe7c",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x62bb92ceaa75a4586d752168a17126f47753aae6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4017e3d89acaf9bd5676426681783e9534515e64",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xda7e93253623369dfebe4ee7fab54553a15907ce",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x056f79899ac97e7ed4c141968ec93668116613fe",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x6eb554faad418054aa2ce6d9dd578a060ff0c56b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0aff1e0f3d0f11c21c5976f1f68179d2edfac6fc",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x04f86fbd1bd8e7635232c7549a58a5eb5e9ab956",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x9e0fed9f45ae4547d67dd9740793528cbe24f1bd",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x350e1647a7048d04b73e13e107c49ecbc4ae3132",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5713bd826034f7511b07be8616a8a2682a45aae5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xecc8399b04c6a99e0a14eff4e8fe05a942455a4f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa3e3cbb6fb65fb0017d381cc8e44f87becc869a3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x847803a8dbf38a910b58e78b47f0b1c8c22f5f11",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xc9c5dc94a13a0fb3792928654a8689fd7b00510e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x540533b0184a94ba0258d835b1dd49d7f2c326c9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x65ddd0131ebc701ff6b62639c743f610b7107b14",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xc1c3a9c270b58260ed57eeb53f8bfe51e0b18c05",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x6fcb576b8eaf472221f3154f6a3eaafed2fa27d5",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x5100c125cf338f65cf51c0b12ddf170a5a213fd8",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xa24bbee4db52348872c3c22cd93fd9abd69fbde9",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xf1079ee6ccf6cb318cee7e84e7406b0e5114329a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x322ca03488baf7fcdeb307cf315a4f155578f643",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf321905c9a1113e38c0486a996b7bc04ea87104c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5a15d797ff77244ac40d4bf497035ff9672e7242",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x88529e5fdb07ea8a0375edd3b1e4e9f7b3f77446",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x122892a25b866dda0c828b347459851270ab5164",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xffec4f077a047eac7aaaa694f8876cafc8388930",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x88109923d35a20c60924cfd04530c1e5591c87ba",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x3b0b97637b580730ef084b8b709925757775759e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x43853aede65371186eac37a91e9e163724aeddcc",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x1b4dc70984f8bd79d2f96ca7ecf6d0ae9df44a6e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x633ddc728993ebc9a932cde3f2b8676cebd5dd4c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc1ea534f63854ba2d3c32fdcd9cd34a9c239aaaa",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x917b3eadb823f00c4b16809bf0e65bd47df85283",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x323f291c857107c88c32f411c3353a03ea05195e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf4b542dfbb15cf2c80528dee712b957b510a6e22",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xbc98cde94fc22f807cb1923039b0f2d892dcaffa",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x0a779ae2e2fce6055eec801bc6781b5b5d56c389",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x51e979b6efd62b7796d8f6bcaa950a00dfd5761c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x34ae60bf6312cc348198e877da7f579a973a448e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x81dcbacff8778eb243b3b88c179ed10269da108e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc56aa50a45e3ad8640aa8a8c820220289515342e",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xcee4bccf18e6f71f41500f51ad792973e4f9598d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9af00b5538fbc918d9efd8010f66d57fbf5a64ed",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6cc4ead03b6fda979fa33b40546ba5d09c35396a",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xa6eee9fa98b57200977ff1227af2ed4b8a93b1e5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4e9b0d52c700696ca71b1e5285d83b0d5f3b3a9b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7ad5ad5dd9fcb07ae758cc30e64b1389d613ac12",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc1794af8b8ffbeeaac9b24779ccdcabee397289d",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x56d2420d7b3fad4a008d3680c5795cd584dca291",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xe1b549cbc27b838b412628048a6838babcf83336",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x33142a86b09301c4bba098202bc05e4f9ffc6e6a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7c562d8664ad813a20947a0b23f42af2c54f1e3d",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xac71bc782fff0034675e08130f3b9cc9e605d022",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5c5d41f90319e27368314ef393104ce345377416",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x144c02f5370be541e123fa5cf9083e30ab7c5a04",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xb4714b9798466a9d437cdca86fb8784ffbdee662",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x69f40ae0e91845ac3bdb1cf80d09d662afd30576",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0e5c56ccf0900da22b46be0e045027cc798cc3ae",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xe78b9d49347fa7496a25695cd6a9041460841edb",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x8dcd1df1d02293af21f099d78143b804de58feaa",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x9571b14092c202c2e5827404a3f220372cd02f34",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xe447f2c8ceccae182e0d0b5657871f2efd4d9d80",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x622b02af44e1ab16ee5fffdb61b4e2bd1cebd9e4",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x19cb5e88f74d3792f10fe4ec2dd3699d2a46133c",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x80bc764abb8e6e22995e35a6a499df8cfdee0719",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe12bac4b761adbe87c41f31b4640a834a517c11a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x725c9430088da19a5b670d2afa5bba063f01503c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x344cfe95b00d205dbf111c2b48c80b8c8bbd2958",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x0454c1be4f5254c96cb124a75a6247a553bb58e1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x9dddc04f103a1153450423408a518139d5ca4d67",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x818f01ce548a12914ed6daa29868ae6e56e4a433",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xff9a4f12d0aba1b9728c1e909ec43d1855ccb13c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x61399c0b8647e686e6054fc80f8a82334ccfe3a1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2abadddc9faaffebcaa2702ef56a1989d2bfd91a",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x0e398442ecbdbf117496d0f2593d6c7ff804d590",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x71aa6c4e87225fcae2df49f977c7fc0d1e8d2112",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xdbf23431d47d1aceb87448c872209e8b42124ca6",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x98095363f3d0963961df432746fd0f5fb7ad3834",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5ec53a549466e6a7bfd3bb63a0bc23492e57793b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x704924cd1c49dbc2dd8f4ce63532cd01a08312e4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd39c1460a4d9b5bb8802c6c0c9cd11b13e90ac36",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x577456d0db54824c31a2dcddf694e766a6c752fc",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xd5864ad70845bbf13f854c3f57509e21ffe6d7e5",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x9adab207c5499a0e2c77557172c1df81f01b11a4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdb61ee2548af330b08ee0ae047ab0063a45f12d3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x12f2650e80bd9d153940dc03cd83c18c2e460a5a",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x8b707020641b5490fd55fff8def64e426f4a204e",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xb150b53a0a444eb153d1823c67d22795a3735dda",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x6e776237fb65220d4f9aff586d39a8ad93cf68c0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdcbeb9d64f55548ca765823d6701be7c7b56767e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3370cf3ba9927c3bbf3bd1794c71f5da280ad2e3",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x3f811b771c31d13f97b64adfba3b6a5ba29b3f44",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6d576a7ec0cada64083c1e413285955d27f1b70c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x8d9f95b34ee97a1ca63b0ad8c559ddc55ae76957",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5a4b1aa79b8aeaf34a2b4be442616d09de12f01e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x12d0ced4220f5acd0b0749bda0747a2051fbb280",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xf2159f3470e247392dfde37ec3d08204b1772842",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfc99c0c8d697ab7a7262640145f453c988d36b75",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb5c56681ca5e743d4b28ce383f04aacb4fb35582",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x7a27187035f93e8db7cb11700cfbda13e8c8239c",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x03f9cf9304f769968767058539219cbdc95dcf46",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3966c63787da0c2dbb6e411e872f38b9c0866510",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbd1cc7c77fc8e1171c2f0666835e1dcb8462ae68",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd0b84be221c6f4085dbdd0551524c887bb7580cc",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x511c4d6cce87f564d12cd36f91fc18692523673e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x319521dd5980706bd9cd0d9ecf3195a677304949",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xd24c0699a49c11e2c1697172d59168c8ad581873",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x2a0abbf0e1326f16e8cbaa7a5a2921ade5df56ec",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd0232776459fdf134ae7ea2e5aaae58904fc3bfe",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x2b5606fb05188e248373a028ae70a896ed0747a1",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x2a95dda2682b2fd5aa0d7244845e03431b12728e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x0d5fea7fb04ca674f2db4eb4cd324257d59279a6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6112d4bbcf41888143ed2c6bb4f1d260439e4c83",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xb87c4158b4a5766d67aa8591064bbe5126823514",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x3e230f7422693718dbea8b4857f1a2c9bdbd93da",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xbc447b17699689790b9deb393336740d984e3ef9",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xead00ed237784341ee474ceabad298f96dc080c8",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x9a143f4b315880c87587025bb0b0355c5c0aa90a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7ee2c57deaaeb6614e341e9556cde49f1c2557ed",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8c20c766f7cb540e2baae4b5ce1dcd319ae3865b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x10d99f5d5da9b4a69af9c26aab525eeb77c17664",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x9c26cc4541d6668ef52664087d945a743d7f6240",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x2e1a60d331b4d06827d3edf880207695dce1c0e7",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x0949f99a8b6cfef5524afc1bbf8f556863d38392",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe3a2654ce33270daddff853d1d9be5dd30239f76",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x9dc04b883b280397d0502373fe07ba66d60dbf02",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe082b66f78266cef30ce4713bf97e31bf7bc2a9c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9b2a63f15931a9ba5c476fa5c0e43489a37c92d2",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x96b8bcc93c481c065006cde99f8b5e3d78b19baa",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xaa1590a9b158b4fcf877dc57c0f2aff80594680c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xaa19c9b4b76c4e1bf87d5ca77b0122b97d636ed5",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x1d1569e8ecb88c0cb35f8920649f1aa66173a8bc",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xdf9db0368fe7eab5247da5c526f88361c0a5ad1e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x7eb62bd0341dfa75083190455907305b750b7761",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd53a395330f7f0f1363ee98aaee0d2512b0cf897",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x12ebbb52a4b07b585fe9f0e5fef3bdbee5fa3f15",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb5393c6d82296410c78fccae588f484c038950c8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x8f59fa39d9612b0f8ea0d0d28961ec0d535f6799",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x5e5d6b81a050c6d40bf788c4f9afa7bdb40fe527",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1945871a81e03f4dceaa246d0767b65ae9e1b042",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x1b064e127265c317adfca9ceb84d6069646e6c2e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5b0e6c5595038538356c04b05bcccde037e02850",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x12c1dc54d23d5420bc65df9cc696c5268ade7d4e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xafc8ae88f8ee94368f9a37102f6dc06b01386803",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd7464a9a6d612cfebf76e9af13c6e2b385b1c483",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xe3bbb1acaab4ad8b13b755c7abfeb8e6e2afb334",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xf51040e6104a86ec66b0ece14e09de7d24a1ec2a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x492191d35ee2040e7733e7d18e405314a31aba85",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x927a1799125eae57b6bdc573ee5e0354cd343db1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x2d0c262d99faaf7481db566377f6006bb26ba1cd",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf4fffd76e6a89d07160b9c3e19077c4d9e26d55c",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x8f90bdb6303acd208ad5c4ee8b06fc57c05f1562",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x73d59fcfea1acb2ac249a3654a6111fff020cbf8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7fe51d449c7ca58798349f2aa773953ab8bda6a6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6a477cb73292ec01232556375ea27c9d1677ecc8",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x3297298d7975bcc696c31aeb58fba8a5d03287ea",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xeb7d2197d1a2477f128d54335a1698e47f9f085e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc627fbbe17686e7d4a616b2c81b93cebafc6a0e1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x754a2c677f9f84ac9462c35c6b319d536b68819c",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x0f1bf46484a1534902f399b548bd362d99c9d35f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x455db1834f91b80aa9ca99d14ccb43f0a02340a5",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x5be5ae805f75c836f5be0c39a4eb961bebfc1d6b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x15c397e64ed9fbc436a896c580085b38983e00b0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa021fda5105f6fc335c6ba06ebb973c9eb43e798",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x366172c212930b5fc2b72bf5b305caa7cc3e5305",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xfdf61a55654d740a32be20a0e7bbfbdca75b8e08",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xf3b4c47ad91fb792de2b9d6d85301bfbfc5a4308",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9e180c17d6f6a5c68f87d9d29c6a613bab6c2bf1",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x7ed076e979738951ff5c743504cafc8554f9dc26",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x9c03eaeebede7994a17f3b208573bbc0bf23bfda",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0a746f46ea54e2ff1172a1cfcccfb8e7e095a88d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7152cd3891d5b80ca162bbb807e2d4310c084207",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x5a3055c686c75b5719643d614961b444187261a5",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x5c5d19faa967ba5d3a0fc919af27a462122ff8a1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1733c78d9444f22f27b67513abea91dd606531ed",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x5723357706cd4f67317c7e7ab6e550ac62f493ae",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2bfc8d5683fbeab2192eb225855e66b6040a0b26",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x544510e22946685417ef7beb9d9191d522ae00a7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x675d9e57ffd383ec3822e8ad9f881941064b63c1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x72cde8eb803bca700437e92d9c84dab8eb448d2e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x42f94f52753ccadf0628dc19e0749834722a6a27",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x1b7aec7db4b4f8cec18e628f33abb9ead8dafdc7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6ae615835aa020ff1239dec4dd7a3a5e8b975649",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xfe25c1085abfbeae7ace4465898a74d512552587",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x33c37ff641403f9fd57999326f4be951813e7e04",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x93d25baa737780cdd2099762992052f447a1ee88",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe6eaf29c78590eec67b421d2136655458f5a8675",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x165c135b7ae5081321bfa475c01560efe728966f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x3c0ea768389aa74a397363ceb35f7060bcfc65b1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xde9d0b42b1fa0704d00db89ecd1c57515555789a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x633254972853c91728f9714afacd03288870e7c7",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x41def742e72b49bdcbd79cb16765eab3fa4c6554",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1f818fef67fd1de70ed02f434f83455e3c754ecb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5e5c245010a1f6651ec408bcbdd93be39e56ea82",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa02c7b8fa2790c9c559cddac698eb9a05fe6a693",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x496d8ea7a37ad6b5ba066eb5da715585dd0fa24c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xff910714d7bf1c731e89cb56096960b6b252abdf",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x1da5735648d5c6f8a0c164bd2d18ef13699a8e99",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x3f020d7127cdf0bc15a2e89fe6a1671510e4cf7e",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x0b5e6603f02d4213dd890335d04716752ab60d07",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x878ed00d511d1c1333a68ed3efb9318d229d37cf",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x1f74bbdfc4ce6c5f3b383f117d4f17b2f539b486",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0ae19911c91aef9592834dec2dc19c0b8640f89a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x808c3e5e3d0def8410c386d0ff357992eec13187",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x027ecaff2b48504ee9bb84ae690a888179db6236",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x750b4074ace49c78ea967cfc205dcaa4da2586eb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x93ff2cfb1d04992b7b4665337c8af4edc53052e8",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x55e05e75d1f78db464d94823ff2d2edd10c45673",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x773b75a3fdbc0618866f03415a844e3d62b57c08",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xac3c28fc24f20e87ee60eadf7f11301e5fbbdadc",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x717d4e42f1a889bdacdbe8f01c3a3ace0b0ff0bd",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xb8876058c1e0796eefb1088766e33c8c1bc9c292",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfce14f86cd3749fe54033faef8bf6520ef5eb87e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x4be2ee779fbfdee5409ff3e28ab50d0d55101558",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x10ecb6312f28280cf42926e4a052fbbae34cf37d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x3cfad2f324d175047166cddb677976f7539d76e9",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x7ccfc2c97e38348bc9b39b75cd39bf3c0bd01512",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfb54c584463083f0dd0f358238d1a49688d8a20d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x60d620c18aaa9b12dbbfc6ff5597b9251b3f58c3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x575c6086afed2a0244e2b445d4241c3cdb40a1ad",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x0947357a77fb64d642fee8b6c9f0899ba112512c",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xb680b74608a617f7cb6f9a1faf86c2e8d2edfce1",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xb4c1c1ba38ebd70b3de44599f13d6bfc30045433",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6e1cdfe3064abe15d429de21105608692a4215a4",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x884f691ca2e323ed7da649db9019318ab045ba43",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x25d580bec97c1316d8163270d9dabec0a1d4a68f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x075471714fbd1ac20f5246392530453941536181",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xdc21de95f8b28ed69b876ab0b90bca6605b3da09",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4d94351efc87d81cb25ef64ccde03221ab98af52",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7f69024bf535f64dc2348d622205505d668e228c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe0dea27de56f81d088ee37d53f401ee8dcf4c086",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa0901c7b8177fb3645b64d618cfd94a688270f9c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x14a552135fac9587635ecd15bc65cdb9ca3d459a",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x105e68c9a7a426344cd6669751d2be3faba9a3a7",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa7695409c5fef39a8367759a279386302a683b9a",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x1110f92b06e297fb0e5555948c11b149d243e665",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x31f43090da613130c4c466bf7034e369697c665f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x40b545a6aa75d6629a124f418ee464de090811cd",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7f5e5136b46252576eff724ce2ed8bec352a387a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xea83b2149b00649c6018f2212aea23e9582f2a84",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x33de78662ceae7d544b01f43ebce772654cfc9ee",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf9fd7842cf320e94d4ff3ec318c7242dd6312ad1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9aef6a4404d7015e1c61c69406b0b69e1942ce46",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd7a481069fe91e8b8c2a44e62e128f4edb32681e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x988915f2b946a5763ad0233646fed2a81ab0a859",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9f09fe499d09e94b65e8afebc7aa95dcdc118197",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe6a4c437d4ed5e8dfccedde6afd4792fc3e76d30",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xaf7e60c8b182313eb774d57caf5b3770a8b0f7cc",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xca3fee2e00523e32ff6876587ca319e5e2311c5a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x909e212bcdc95dfac400d41a8d7f655b4259f7cd",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb1bbd4da1cd65d25a785fc1c13ae8e74f7bea04c",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x24319c3a92ddb29af3f358e1f1fdea8ba841e749",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa91eee49d2fea98f0c8f364e416ba66345579f0f",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xac48227abd904e3ea05be3d96263c12ce53f0def",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xde819b39fd204aa2fa185d144742ec38a519e1c0",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x9f6e94e4fe7a0526b27552e7fe051db63886a441",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb5137d89bdc1ac83565d3d1cfb978e45c2063c11",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc1f26521090a9cc047523c633ca30b83e65ecc05",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xd0c78bbdde824ad5ebd914f9f925914522761b4f",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xe39fe6680c6dd0dc465d94cc115467041d711190",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe7c1db78d86a6ab2295a2b911559fd754710b64e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x155e42ad595a16a101508ecaddf73c1be8bb9811",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb3f650589c53d7b38e3d5338f66761f704723703",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfa446d4bdb6d515a3591035639a54e16c2166f19",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1ff1f3a01e58dd6147b987490af7eb2b28716fa4",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x11b5c69cd2828d147597b24d093e15720ca04c5f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd8b22d22b02c465c0323503b603d62b71b95fb02",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x77a8703db1aeee04405f8a37fde59f669adfa429",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc2c39ae8f8cd5594045990feb7e61a3eee59e2aa",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x256b1ea2e1c23525f82d9fa19003a6cd1f6471a1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x75bea34e1de99f4fc26cd9a16c23b1f743e86696",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x80f5a64f4b97084193053d9bae20b5f082c19b96",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x45f486b5d8253fec7769b25462ea134b1af0473a",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x6025c7d4a4027788a5061c91daf069b44c82e214",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x89263dae66d3cfe2c62ca969aeddd6741fedb2ad",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x89df1af8600af226df87d01ce4eee7e5c0cc1642",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x4a5db91c5c20b3c15305fac490fe30baaabd9d6e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x36eeb307dfeda493e57f2e57d0a185c97c4894e9",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x061e82219a42331a0dc63ca97ba195dcb5ca46f6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x601791a543c024c8339089e05a7c279db68cbfe5",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x33e5acba65a950b907011e4daec4196da3d328b5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3a4f3ad316c627c07481af554fd63f02920eb3c3",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x8ba73dae9f77ea1003b6493f8ca6409398d8b33d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x4eb859fc83977267fbb6ae1066a51fb4c9086c28",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6250948feea4bf96fb9f4ab48acbf0b76d8ecec9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0a1e276a3b79f454f026bfe6e7ee1877608751a2",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x584c1bc97cd87adba2d27fab4e85690bf577e6db",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd26ed11257208f8a0e697ff238e5ade22c373c10",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0bc0146b72d7bbde0046dbed9a8056e9c93e4b37",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x69d7e0da01be1a6d70c1dc1d7f6527514e1c3a53",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb7795b621605c6823f0c7f54ddb59ffe7f0e03e3",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xba2197bb199683910e9db5ca3b52a4e48118daed",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xda807f65d4a740dc80a6fd3ee802d9fb4459a7f1",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xc115822e45cb075789e93b0b80b0987c3c60bc34",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xfb4207e5691d37aaad1b2ed4d5817cd4b8233880",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x23e1176f7203e0bda3af6fc807243c8669f7fb93",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4a5029dc5046ecd9ae8589277492f9141a4c8967",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x637ae2ca55195a7328bc4a1ca5665b1cc0d0ac33",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd9462a6250ac73e19f1405c5ab52ae91799e4b1e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x74397beb17691ca6c49e56590280ac66da19ed01",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x16935f0684a2009e5da39f84371d07b29443a9c3",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x7f1ae4cc24d79161b3a5db05a3dbc39d00eb2709",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8eab75f97df4a5adb67bdf02aec8ecebe1f64898",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x8add4386322443222b1d76267cea362667d41e1d",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x8340fefd527494022d13e76150dee990d657e35b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0f3378e9337c13b0d20bb3ebb6ce0f804c81da77",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3f9f1383c93ddd5d03a083f691d9f5c5157eaa2c",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x53fe0a8a31425c42a259c658bf970ecbeb1445c4",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xb8332e950138028479ca86adabb5f59ed739826d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x22a4ab12a9623e8bbba340dd4ec42e46102ee669",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x88918b065212f6f126d05a6aca877660b3763fda",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xf8364a4e3a2337f8873afde6ef036ff4bf38d0b9",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd722ba52b8b256c075849f765274816057a86619",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa005c0763c63c605025a0976adfdc2569e81abc1",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x363f02150e8bf8a07f4fb2f07dd1acde885aded6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x88d8d8c2e9a29177a4a8d6755b3870e6720ee6a6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe76f1d27f025ef1f2171e712e77d939d98718f1d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb0ed408c24ddcfda6ac695e2c58afe897605d4bd",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x604d571b4bb4a98c78a759574d463c2aa07ebb20",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1c171ccab44d7adb6ecb611d7832170904ec1388",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x38d91ccbb2841ac9abdd9b2621545f5ed4838df0",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfa3727d381516bec7667d913c47a4305a7b19d1f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x93150a436edc44bfb4de74532f64e8b08748544f",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x4797057a601dcee861a88e36283e17c7390259f9",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1c61c73f562188ca425cb1f6d943cb2586785f23",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x3da4699c04acd9f9faa441dac748ad28dc78cb5b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf5727a0e4b1d5ac00c4daabbc1d52fe732f2acb9",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x2ac6689a7bf23f4d542515f2e2a6fff63c33702e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xefbd2ec389273c7886fc47bae92c4f9934edd8cb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8c765019082f51c7fb5e1ea4554430f90de39fa3",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x81647f132924e4276f4db41b34ed075641d4cc4b",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x970fe2be4bf17e0ea656e68e9e627c631da6a0fa",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x891b16ec96b49cfcd63111c617ed71038bb4de80",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x49ae565d1eb60a6095475c113486eb461aebe47a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe7d664678019077f58417fc3383f730af3c70aa7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x30e73439a813e86acb6cea05b87179ff68f130f4",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xb3bcef4d4e73e47064a4f59a7ae4d05edf468a4f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x56afb8d5ca6494d4d31ea34be330694eda81b67d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xbd5f8cd0a2d79376c06d0411cf4ac95a8028b014",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8dfec901df249a0890fa3af6948e4c5fbe45a195",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x3e2237b8b9301586e9ef089d573f403ad26f7905",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x8348142049d036042056854db492dc20d3cf6583",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x29a6502a3ca159071ec00847c679b22c605ec63f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xee683f46b4054e0b82d973990601dec81e779532",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4a56077503bfea672b8517f69c3b60e6fe4d9d7c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x45cb644e54c20a1f8919cac1b9a7230ce39657db",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x02c8c82be0848d31f5b60df4cdf4eb72fe086f06",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x45ab04c54264f485eef8db0c20e531e9d37cd53a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x1a0d921d454bf470919529eaa2db8bf25e6b9f78",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3b1b33b7c575e7cfafc99ddc41395fa7d929f6c6",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9fd050dd3f3c07369f38f52df41876dcba84632e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4ddae97209770efdd9b3b64e1a0b1d98f42d6135",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x38dd5dea771bb4e315a61ce7400c110106ba0de3",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xfd06f4b91efc5927a913b858cb8feccefa45e661",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x751e253227509b1cecbd9d3fa73700e9b387e2ea",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x430c86042eb9e6e4c32e1ec80b76d7c007e7aead",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xdd3005bff4cbb83ee553c18c2e8c1bd2afee2ee5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x143b69276bb59ab240af8c3d8139ad8e86250f71",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xec8bec606bffbafcaec221e9821d48e1c77dd0ab",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xa03ad92417eb2a1262ffa0c73909f18786c7898b",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa020410b6cde5877388ba2ded1e1561015af8697",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x4f55518f0881cadef640c42d75cdcd0c774659f9",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x29683925ac73eef6d405831d52cc77075777628a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x548b4e5408d42844ee2560fb767cb3f1a26310b0",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf4ebc5528c80fa7d551d3b3675270385f8842ea7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xda29fab8ee19b9ca1b04e2c7f2da926b02748d82",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc1e7d550aef72120714d276f96a7fe9b54ed6a90",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xfc7e814e59988ebba857b51d2c60414b25f364fb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf9c5d37de61c1f0966c333d75f6e18d5cf52a5a3",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xc45c05d2f95d893b1c098aa03ac69f0c44fca53a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x0a604888ff12c53fc6356ee4657f846a95e5007f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x25bd0687aaf56c7621c4f1ca57f7b58bd1acc4c3",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x060a554d0c50423090e40facd13040abbe5f2cdf",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xcbf1ee9f6271b2eb1b9f4c5687d5176c6ce5e59a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe9dd21536e8ab9af4353286c248ab0dadb64d9b9",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe3c09da8a2ca7db09a4c150e8e6581416f801877",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9374da1bea44d856cf53207ef565c451f49c69f0",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x630fbe09762c255a7f85337bfb1a9210d234f6bc",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x47fb72d0da2a56926135386b860c4e813e07d720",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x8e1ed6f67d7af39139ddad3f2577a2646c3961ca",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x598ed77bc7fe9cf0620d8bf48b862e95ee26a870",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x26fefff904f058522f55d560f6b4a72815a889e5",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x6c7e03b69e14027058158f3da4790c4012f6e667",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5ec93f6a3526a30bfbaffcbd226c0063fea3a8bd",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x50f6866be52085478dd2c7fe9c04443448293e5e",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xec545e7b0cc880f494291c78a9a28b3edf141cd9",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x89d3c6c1bbe79077353a365468310297ea5fc73e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xd843fe4e858d2281055abee0d652f9249e11ee6d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7bff3e689397ecdb1eda26a0aaff4b69bc318343",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd644d77f56c7487b1c53bd0a82f460c36a556c70",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x1a1664e37aa8e55e20dd514e43a63703d7c03be5",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa3c39ceca4590d091ca977516feceffc1d75b378",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x1e20ddb8c80a55f74562f09a29b19f080d50de9a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x7f08d005955ab7313c89e0a866fc3e6958372e44",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xca81fa355e6fdc4405ef9c9d3a392462ec37e7f3",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x7f92b7eee6004ba83d0baadb953659c35656ec98",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0813407596e7c63cd3958ff081ca078cb31ddbf1",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x19be718401b7969b566257b88f5a323b23543b51",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x34613fb22bd67ac203e07fe97988db44c05beb14",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5de0d8655515275c194081c031c00dbadfb7696e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x17eb918e9d27c88da45bd66a26a8abcb38d54d31",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x8e16bab8fa936145a8e96ee5aed23b38fd67c070",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xba8d22f7552b127418b52ced6e91802f59a2c650",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x155625feacdb8127e1c34505aa2cf8c6ccb27c35",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x365eb9cf0dceafeded2442dd889ba95f683c8ad8",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xbd74932817ef8f48123b97e910b1b8b9e8d5e946",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb1b523af6a9084fe77e64daa48ac176aa56287a6",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x449f7eb1d2637742ec07f32404efdc2ae82521b7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4a06720cd1036a457bf9eb36f6b09111f459b517",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc5dddcf649e6c34e5270cb6412bf956583023b9f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd98ba8cc764616be4bfd1cbcb27d6406bc4b01f8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x909233804da568a3db1d803cd36680242835d5db",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x21eab545c8f019d8b4464b85dea4c5e080513d83",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x162d49ce5493e34f28413e433e5c2719a056372f",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xaa29f63f65d8b3baa3cc1e8ee4c24660ec8c0070",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa2498fa74e122e3cd334eb24b9af73382ccf3557",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x47cebef5a6afd3a458bf843b8a6f0bef899531e2",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8bb79b61633a6614c25d823306ffc10993f41ec5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x75a413df05bbe8cc0424aaa17d9c2d3b09760314",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x5a1e0d4c19e3cb275ca8b9e42ab532ce2441a346",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc0f730cfc29a74ea6041047830b8cc9e47a3c1ad",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x907b332f4d2190027b115224a0ba7c8ef9f30273",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf5d839676f90053908f4b456801198401b026936",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x11a53646536375597ac8c58dbf3fdc227007a373",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x005fbd957966d0a2355bfdd95d8fa4dcfe5605e9",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x4795b373a3e1e1bd470ec7955f6c6ca19e2e97c6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa09f00bc5aed28fb1cb0380b04de4dd1c5711190",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xbcad3a45c12c5b9cca9ffa774820c8cbc0a35262",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x4a10c1458f0b24669167396db85fb0372c04d853",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc538c1c2ad4c38e556112e856e86ea30ef2913e3",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7437c58c207be117920a2ea57f5a4924385b5ad9",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x627bcf9ba14b621f6621ae62df9cfdd1e4df6e06",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb97d2ef9007955a67e03df0471c2a9e513e42d66",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x58b1281f9b9c9f97ce22b86f4d63a07c9b0b621f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x824fcf408c145f28d5fab58e74c5e326d09aaad7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x07ebe689fb350742f11daa6ad671ee0fddd61d9b",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe17b8267c83ee70d55a8d244f27c7ce7b7e19cc2",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x8118547d2f70f36e86c92aeba3c3fac4518d313c",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x010b1f397b9d6125d4ace76f03a80fb739ee6212",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xeb956e49d1994fa0f3b68cbe8b3ad60ea873b7b1",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x3e4ef12a362f5ac57ea1b936b869681669202e2f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xad0e805dc1c27d9a42f6eabd9635f0ec1af43f44",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf1cfd8c4fe6b31cb3827341618707abc6fcab198",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x37def8eb449d68327cd5c75f966d6e3673206d41",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x42f440ccecbaf47346b7e1f97347b331820559b7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xba868f7fcad1a835964a271cd48ee3e3a623d5f7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x90ff2ab4d0006187432fa236a7063525a805df0d",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc20ae03a831bb01a1d534dd6435c4bac4759bfe0",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x504bbe90442553fa62d3ce1d9605406a5e4cb749",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x74715e12d34706dc93df96d2d8e813fb06af146a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe014f55bb5d3b32299a7bb9ae1d34260f429f2ee",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x7984ba2f4e00dbde787aa32dd049ccc8556da6b4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x869e19065b94e16763e5fe399a201ab454c385db",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x12fec96863f5a1b6fd3f10392fce2d9fb54db76b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2ce5d0391e3b26b89708b2ee544385dad6f22c13",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x9e7ab7801a15e9f3fb81993a390c08ee40a84cb6",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x2f54e9c17b913fbe79135e7a78ef99b9de9ddde4",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xb93a7932c807e8adf115c58b4d7825b0572bfe1e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xcaba4e97a86d830410013e838f12cebee0b249c9",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x063a914a9bd1a45b03ddd795f3cb02d7f1e4acb8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x1269e6a15bfd5b57e16e28050ab41f955a4bfc18",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xcc43dd482b50a015cfabd4b41ecd86cbbb8ed6fb",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x52883146d9ca9957432e5715891a5f8287e62f39",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x312226d46ff38e620b067efad8d45f8c0e92e2b2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2911e68e0e36b8b9ff54b34391bfd3e000131de8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xe5094a67e1c95071eeb9f6ee9748ff619adc37c4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x4803459c7115a1ee66c200cbd7452d64e466949a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe886599ddd4d79c1aa2865990b88daa8d2536bc8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x51c04a201b21458bc93b533c245f28bf31799050",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdb64229f010aafe39296e61520c845f6e5673261",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x93ce5486824c3e5bea5561ce7e7dacd51f924526",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x85d0ce7770371cb730ed2d002428b95d3001fe59",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x8ecdda228a2d19b905aa96d63a956e657d17ad98",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x2a72832ea9cd14405220f3ae307e9e2bb56c5a80",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x48995b8e94d556a71e474cbac0b1de8e747432a6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x190bc4b6b7de22c88fd4862208606e55df8b827a",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x19f42b9b2178393f0adc975417eb538d9189f949",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb9e782a8e3e55217be271ffac1cfb7fe86aa2312",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4593e9a322cb220362ed2f56c871102c0a92a928",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x514efb4e858aa4b32bb0f761529fbcee5a36b3d2",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa9145483f21544375ff57240ed0777c0dafa80c9",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xf89c2db21e00b80bb2d0699ef99c464a391bcf52",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xeb47a1bd92e34dd91ff65d660d2103c8a1a2cb2e",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x64220b85356c2e31aa5b2dd79322dbab63d05f22",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x5130e831f3d651564f6f9adc7b3d67731e2eb3aa",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xa6c522b6cd0bd444a5e7fd8fcd8a2cb9284146ea",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x3f9677b9e5c8764154444267ffad23fd6db51a00",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x26ac83f5707dcd2b55dc467c661e2befec04ecb8",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x013198182980ae0d11e852d881e390f824676824",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x13aee63e6931d5a53f266350cd0f4ddb30a420ff",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa78a81fde761fbf75e2265cca502b3ee62f320f8",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x4b5ef050345dfcbbdc04ab910adf714badb27dc2",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x96408a8256caa2f1842e0077263c7bfbc083c059",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x2ce322dbdb63d0d5e7f0f07fb4597585d6991756",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xbbbaa9b374136a2fdef831758fd6d00f0aa116f5",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x5d1f0869cb7cafd165a05d761adb8c35800818dd",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x22289499d043dc3cf40908f0552664fdb69e8ad6",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x197193d560afe63f12c58c90828817cb3d360bae",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1483dfff8e9962c3771921b780db6635535b3c3b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1475e73e72f1f98eafc09b9ce7052c833d6a0731",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe497b8de998adc74cc552d9d08270d0f93ed6210",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9d7e7085612843b992d421f4f47925b6aa6b61c3",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x360cb7ebd85fd8adad909be393f9cdcc378b5cf6",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xe0c47abea945481026992f11b21c953eb558e640",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x748a2d886218cbda8dabc67877ad2e7a841c4c8a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x63e7f921d6ff3764321c45c51c5e998997655ed0",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xcf9b485c84a191924a59440bb8a854963a07ff2a",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xb038a52165e1432137d299434d8b656023e67a84",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xcb9a8d7b608178748080c32ea5f0e96a7b13e29e",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x574cfe0eb0f8665f057d6ce8e6620a225d603d5c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x03fc99a0cb721329a57e6610a1ec825c18f02dab",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x1a79d6038fa60e49d9397fcdceadf4026e14422e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe744cf593a9c5104d206bbf2f737d49e345076e2",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xbeefcfce87e55ceb548634cc7f77f9cf3d3275d8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf40a877df6c80320dcfaf064370fa1f9038bf45a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x580ffa61e036fc1a968ab8a43e25251156c98ef9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x100fc50fef97f44d2917493d595149c34e319fb7",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x36bca608029c77d1e17d337106506209648c5ffc",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x35b83aa1b1407a438ed39d776fdd18cf11e0babd",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd7d94560bd42c0f9770938c4772e44e856bac27a",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x03351328843940bb13b014d3acf3debf9fa75525",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb3cfa3b7b93a46028916ca499076095f5c65f2ab",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x38ce39c7a13475b7d87c6cb90752155088a44db2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1e755aad3074fd54fcf44738826b1277b8b1c766",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x63fb4cce0c3ff78b7d13334a607f6c5fca4286f1",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x53cda7b04fa728c7b823c9af6906c96542b89e18",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x70c9629bd6c5ed414672fc2c321b0554ffca4b36",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x34e3f9567aee97397ac7a002df2ef4f30193f1a6",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x8e816b12a3474a77183bfc5bc8175aa055743550",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x38ffc1ba00005ba6d5294a364fb583df16d09f9b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xdb29c08d0a11d376a54eaabbaa89eb7853e32da5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xcc4495e23d2f0fec1e20956217d61e61caaccb3a",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x0d775382f6163e45192770a169a9f1d58c4a37ea",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x18b0046ef6ee3fd03ba91a190e37e7ae72b89d8b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa9a6ddf2612624040769c80f6afc01eaa6789ac6",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xd133081ff7db50a941e3342c5da44f80421b64dc",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x44f79239e46456c92647b07b5d5003c3f95bf946",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x359842cd28b2cb58ee2f35a6abaf188367763eda",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbc5e44596816cbe3d45318a3a124f8328c417cde",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb6b99f923e22e1ae463ac6009e4da81e1e5b58c2",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x7acdbcea2816319819eaabf54661d3ff0556d280",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xcb1907900381069c9e64ff7cc8826eb031a99181",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x8dd34fbca7c01c1df799e0d595a5d2943ea2f4db",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfbd9c9ea99cbd750d1ca6e055b5a3d246dafe689",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf53b337d33a9a4f90d638509d7f930404f74be37",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x81f0401aabe958b62a46cd84fee445a90f1c58b2",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x895b1bc30558396ec5fb2fbcf608a2696d16735b",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x7af28981429bfaa8084d89b7f9336d16755fd71c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xbbb6ec6c60f774232cc514d909c4a6b82e83e668",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfe5f2d957fbde95f78b0e8849f19be6c10b1c0b6",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xf31dd477136fcc69da9d17276f00c378eace18cd",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x1c0518d5567e18d2045bcb57820d2cfe19b2a1cb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6c3b1e291d0155bc2ee6471d92a2105f357980ac",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xd365bd2b72d6fc36c2c8bcbce3fe75a9d87882e1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa65222240dd864a1796b318a891d2f50a6f24df5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0ce4b0ec2a332aa96c669393cc2ec03dc2f8cef7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf357b923118e89db0bbdeb79636a80bd7060c68c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfa1644bfa7cf81ac8f5f208f41c2e3cad5b8cc8f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6ae1c159a53b1a9a698d7caf13ab762d8b8178b8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe0aa084c4a7a4f665d4cb6ce25ddc2b9b1f46e12",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa8a2e8f79724e9f07a18b0d856de52a420d5ea59",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x7fcd0f913f08465d5a30279f16ccb91be1905fb2",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x321da1030cdd83a324bb1bc8e1ed7f4514049837",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xcf3afbd85e5fe9519fda02ffdc72dc8112750fcb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xaa905f2b105693e68321ce806d899df561f07e96",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x3225ef561ebfe8d6a10677ac81dc731e1327e6cb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc78b661de0ca6ce566439ff6566e69fb2d78fc53",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x7d86359a71f39cdfbd179ab2dc0f23d4cc5f306d",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xed2529fb1f1b4d1a241b3744d62b21e84f122cf0",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x3a34e4da160624ede5f43134781bf6bd5c8c60fb",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc30100ec619d357517ad3383ffc660638ea6f1a9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x43cd8baa8a0d4844e7670ff65cc9ac812ad8f1d2",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7d1b14dffd5d875f8eaca7dbe34f17e171ac25f9",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x54d81badce91fc9a3372d9f2d197cf9de8bc0d68",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xf8992a1f4e302460bd49a1646ee315d810235212",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x14ba2729df2b18320687707ff35762a21444b1cb",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xcbe1b6e980a88d01035028493a6289910ae14a59",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x84322873dccd15bb8e4383b090cc588817b252d2",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x1cd23b58b16437addaf648926d75953e433d1d2b",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x623f8c57ca12ff39630fca226b62031c1056af6f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x05b45c6ac67cc9a8ec4e4138260742fe1f747863",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x1a1f1b54f8e16b10ba13d18b042d71e037d1c827",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xce887147ece1c405e3e5970f76b6306b3d4cd4c7",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xcd98aa3437f953259e6983ebb8fe47b5f50317b4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa5e0d52293fd36ac09150b0700ef85399ed6a3a7",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xc88910c401ac093017dbd816a7810abe9f8cd13f",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xef7d7cc7fc68ba043046c66a3f494a2607d1241a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8787339b747068818671147978100c83dcc6c7bc",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xccddf4a6fa9438cca6f16b0b6ff861715ee92506",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xfc3c1469efd2ea249365260768e05fb6f466276e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xdb211102c21da659c9cab152a2edc2d9d0811bd5",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x4c25266dff028fbe30f479e43d6975c054cb12a2",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x31a8870c4e6b67d114a35d9784587b35b1989125",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9493cdcc6884f2547f309f4522aa29ba3794b49c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x92451ccf65d681ecb2294114795873e63a4a6883",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x4fdf3264926c08f0e4d905eb258b60725593af44",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa6cbb07cca9ef8cc1a19373849308007ea54d860",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xbb6f14f30c21cc96871eb5798a19e53ccfe48295",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x8fe7261b58a691e40f7a21d38d27965e2d3afd6e",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xec49e82ca8c846c43b1938111661034146bb14ab",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x477e3af52182e3a9ebf7b1f0f31896181fdb8341",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xb792b60457b4510a8ac4b5c2439a4b699e025b83",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x10ddfcfbec67e7a0bb2d40ddbf533e952df388fe",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xc65d5304e72fcf8ad90bbbd43fbb37f453f58962",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x003340e0b3667e46135dac6c79f52ff1f9423eae",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0aa988315fc4d094151fd9408d444d27938960d7",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf47ab5243d9b78ebfbce84dd0c789e5801fdf8d9",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x24d09b3726a78465e9d9c48c2def10607e417f86",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xace63a87cc52e986511562df25360c7b873c9f51",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x0113df0486d293598837a778364c79bede118f3f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8bb9b5d417a7fff837c501ff87491047e1598104",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe1ecf8ef96a4a01e1cb713321564530dc3165a8c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x6d0e7654ebd103d3fb2edd436fb8dfce3f8e93f6",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x40eb48d8d54618dbe1fe48e484827c35b7a21a32",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb663d5ba61842314c6c9011102e8baddb282487d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc2ba2b009a9a8f12fdabed184412120fb072d620",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xcf8311ff3ffa3cc62fc85e9589e688eb122513d4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa86b1ab5bc759fb0b7fc8611e1705688b747f487",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x7343dbf94e8e77470ec0c471140bd86ccf0d2dac",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x522562cbdb0ecfdbb331f5e753a0300b993618c7",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x60bc21e2701d0c0c603a7f9432e7e16ad0f36be1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x3cac7e12dc3bae6ebe2909c82addb04da4cc340b",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x037baed329d6e2b0155325d8c1e6bec669a0c9de",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x90523857b70d43fd6de66356d3a8b615303397c6",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x632dfbcf4480600456474ad42e4b1325566b496e",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x378a83e012338d624dbd693dec4056498aa6d970",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x891cc4e68e0b2d7d0d02da12ae7d5a8341b5435c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x72f79e44d588728a83f2551169b5fc96d9c5e8c1",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7a195e1d1d09e9a3bfb3e3be4e2d3b1462f7c6c8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xfbfb62801f6005f0a8b0323bca707aef50a43d1c",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xd4d2e1894e7ee299ca4d2e1afd2a09a285121dca",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x54ad23f74342804655b0015cbf106bf95f165f36",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x389c813894450c72ad9baec425313a637fb497cc",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6bdf991ecf7e83597cd1e2ab26028c1adbc888cc",
+    "role": null
+  },
+  {
+    "wallet_id": "0x78fb440136f90da5418efdebf1913835af55a8ec",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc0fb7dab3834e231c30dc80ab40314640e975e45",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xcf8a2dad29daf8ce1e53e037711febb088d3c6c8",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x186f372fba7e001ce8ba31e2c759a5ca888b33a7",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x33ea9cd120bd15b91da747b199dc78e35f5cc0c4",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa8d6b42a88bd1aeb61e6b7dce475c964bd72eb18",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xfb6da3e63054ee7f14d8f44d89aa48decb95a5e3",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xac6e7ed21a77a001dc3e8e3f6791828c464106d3",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x2f571f75d467a2b209d57e040ae2e37e38826dd5",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x3ed932a5260199af046cc83e63752d6b43ddfb9f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x51021bfa9313a2770de766edbf39dc43c47c117e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x4954bccae3e040f545ab2295aff1cfa19f76d4aa",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xec7d9ca82189cd1772176b5ec79d02c12aa927a0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9b3e19c83cc2595bebf759d1ba9461ed7e68b0c0",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x6e668ba3d44e5304eeedfb222d57455d463becce",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x23669422ef2e41dd35e7aaef10e88853d6b0ed3f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x99b641e398267068e6bfbe3d98c101c97170ab92",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x14afd68b572872dbac0416013c6ff72f4c817179",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x9027e271e2c6ee1da7aa0175cd80931260dc4f8d",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x40e35ec24e4a69c3407aae5ecc292a209605986a",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x09ff3b809f214524547c480627443718d15e35fb",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x3017619f44b044589a0f42d007f071f9dd790a9f",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x2ef3b2e1830418ff07b8da14c7e965b3371e5421",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xa0ca3e45cf2b025860e01de4d34b91c420b53818",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x9e856d1c484730c49e24c2ef78efb45ab19d03ae",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x4f6414199f04013be1408eb6d3e1df2713a66093",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xc01089e1eae3b47f591ef691656020e4d628b566",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x7fd49d7c2d7ab759dd221418ff3872f7a24e75fe",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5ba8b0c24ba5307b67e619ad500a635204f73bf1",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xa6b133935e4d9de6a8c7a29f93d6da400a365585",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x05e4ee02f29164718571545817f121bfce204c25",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x25e5853e65f6db4930e11383f58cc689f8704608",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xba29cf7c95538bbc07fde94a5918fe8f507cad9b",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x50a2194317c41603f3e376487710cc8723f08082",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xe4655c0c0c891e2261c83555c65b2ce2791d3ad8",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xc275e44af9f4db4b25aab551ea06744d9c685363",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x7bb0ab3d0525b0cdc83c26e988a5a820be095d5f",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0x261b52a2dd9ac5c3944aeac8dbef276f8769d8ba",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x1fa2029ec29b060044a995063aad02fa9290e197",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9c2000dfc5a5b97eaea0df061ddde4f1f9f4d8d6",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xa1eb929dfee290a86fd604eb4be0ff2befd660b5",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x26a2e1b7925b34f3df852db9b3dc9595db7f54d0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x7fc9d3556452f221dae3a6207b8bd960ec25d402",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6319e7820dcbebf9d342dc5676e6c7f583b544c6",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x3482b2cc48de6e8c80ace170d2c6b65d6f2a926a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0d3c1f3c822dbdead3f27a62c88a1a57ee27463b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8ba9dddececbd7f2a6429658f9b8e09a60ab671f",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x79565a2db8feefb1219ab7fbdeb290f88a49cc30",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x5157ef1e12a8fe5f7e06a38c6c5192f141598fa5",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0x3d4a501c012b945f604eee8fe0768ac57f6e7f7b",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0xb113921949f07b491f176c1f2f3899e0273ca687",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x822858ca6bc867705727a38f3d499ac60e67d31e",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xbf893aa6cebe0b9b19ac253148ba58e55fcc4bd7",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xcaf4be791a2181fbbcd0afd93b5a5dc716c93972",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0xd45022572f4337a69fa371ab1fd86214574d1097",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x0b2df028c26ba1f58e6ea282b2a1d515d99ae282",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x96e08f57cf4023a8357ab0193d2cb5a7d46c38a9",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xf20cee51318440daaa4fbc1bfcbb1b74cc67394e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x52f7685d2ab7b71ce8034d6375861dda332a1ef7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x71c916ceedee71a44dd4500147046f73c583660b",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xce83eb734b8f43c527bed6a2f794c7aa1eb95fcd",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0xa7d6c91b0594e9ca55dd0e312ed6091afef646dd",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xad7cc86b9db44fe6a75e37a70124d58c01ae05d8",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x9afac0bf257e5fc18edb39f3d96c866e7c09db3e",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x489daae7f267312cdca739156ec826de5da4eb7b",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x3aaf1cb151c85484c862b56b7db7d82488432fcf",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x0331dfcd9d298b48d5f7fb25080a53d632639665",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x1c96355b6f4d8b55b14e0d69ad14ddf1326d34c7",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x79397ed27245c77d2c646da652a6628cac9f6b9b",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb6208246b0e0f5e51f653399448c674271bfd61c",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x2b0f47bf3f0bf80b30605a2aef1fe15522863664",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x6d202b4f43e0dd0b29689c189a713f5a5fdebed0",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x6175242396b7e0647c5820c7f408ffe805f3668f",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xfeea951ad897d0a53f75830329f1124a62fa927a",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x8e8a85361153b1ccf00ad06e0807e6ff76249db7",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x1a572f997c098bc1086033814c36be84182bf59c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xaa6e521a03207956fd75af05958dbe2f8fd90771",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa7b1c37b41b9575ba632e02cae87eea449b8f7f4",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x16acbd7df4df04ec5d01ddd5d9c3aab4ecd3eb02",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x5c91bb3438d4f8565300c0d29bbaa9d0ba46f3a0",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x722decdd50b6174849e2c06e7a5d9bc8a3c4ac0d",
+    "role": "monster"
+  },
+  {
+    "wallet_id": "0x8f6e9bdd2a948160aff424104785ec89c06835e0",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x16773d5f8461556de6b74ac2ee08be5ef2b7d445",
+    "role": "keeper"
+  },
+  {
+    "wallet_id": "0x47f7e1bb586f4ec051e1d8236e3868e55e5e3b5c",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd6ea111eab58033fc9594165d171166c8fda9765",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xb6268176b003d11541dd84b26cf07be9c7a1b7b8",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x313e9040c26e78775020bafa4091885ac8e53220",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xa1039b280426d832dbb4927df89733b9eaf3ecbc",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5db3f9d321b776c3b8f1d6089956764c6a013873",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xb1ae8cf422e9e76e2af949bc64fecfd74c06879e",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xa8bd694a38afbbe38280746e7c353e9f6628751d",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x854f750c12a2af62923ec7c400f5b43285ee9636",
+    "role": "coward"
+  },
+  {
+    "wallet_id": "0x69a0a727cea55e10215bfd4b2a20119d355be55d",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0x7a3a2de01925679c77970ca1bb0ba397113475c2",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x5490fb6f3db6db8fd4e8cc7ac6abca90012617fe",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xe01be9446476bf1fdb71d32e1e02206402887843",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x796384d3e340ca47b773efa1ec164ca293d28575",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0xd27e751f211adb45f92c4f300d460e34fdb8c7a8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xa949dacb5ec972fbc8a7169fc85b9987478c0654",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xc0a7f07b2a61d6017a32812aa91c2747b971d478",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x070e0f2c31f2fe3c273c98cfd4a19477e0771798",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6aea2721ecbb77c3719ce2ae26c3432531ebc9a0",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xf116cd66313cae052ed073f882aaef8c25f38565",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xae1853b4b7010a9a4614edf7940e703520e548b8",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xb6ff37c58ec60f786336d8e6344048de82d639ef",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xfe84b106ed7f05bf3324476b2110b2568acde508",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x3331479fb93c27d7f94d0959eb3b2e92b02c842f",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0xc278adcc540b78731869df3265d0b9eccb089686",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xc74c6a964dc87eff0c8aedf890ab6fbf22db5141",
+    "role": "kindly one"
+  },
+  {
+    "wallet_id": "0xc13a40fd59d830ee2b04fd7582860cefc59604c9",
+    "role": "haruspex"
+  },
+  {
+    "wallet_id": "0x6524a4de1c6fa52f68d9be4445646fde8fdece2c",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xc8220a969545c2c0ba555b64fb2e5d46f55dc9b4",
+    "role": "paragon"
+  },
+  {
+    "wallet_id": "0x70c71c697f07644a6872aa118b062fa4e131c8c4",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xf2bb28406ed8db7e566b76f35648aa4830f132cc",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0xabee683413bae9c28c3c0772438f058bf2a44193",
+    "role": "herald"
+  },
+  {
+    "wallet_id": "0xb24686b6761468607bedb5c1be392dd34ce244ca",
+    "role": "optimist"
+  },
+  {
+    "wallet_id": "0x9a6712f636edda7e7a592e4f309c6f6399470825",
+    "role": "seeker"
+  },
+  {
+    "wallet_id": "0xd76d805139875fa1d8e8898a3dcf6b1dd0c57f88",
+    "role": "seeker"
+  }
+]
