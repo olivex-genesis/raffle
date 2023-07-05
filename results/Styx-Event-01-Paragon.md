@@ -1,0 +1,21 @@
+# Styx-Event-01-Paragon
+
+## Congratulations to the winners.
+
+|    | Winner                                     |
+|---:|:-------------------------------------------|
+|  1 | 0x8dd6a6efce1b55268efd126b58818592b510ada3 |
+|  2 | 0x2911e68e0e36b8b9ff54b34391bfd3e000131de8 |
+|  3 | 0xd92c03484124543d794df9249ade3b73d16714ff |
+|  4 | 0x88529e5fdb07ea8a0375edd3b1e4e9f7b3f77446 |
+|  5 | 0x601791a543c024c8339089e05a7c279db68cbfe5 |
+|  6 | 0xa10e6e7652b75c01b55f7f6a44dda5af2b0071d5 |
+|  7 | 0xc2bd6606d7c03e772379a56663312a007f4b1514 |
+|  8 | 0xaa6ad0bd2bda6efb4a0cfad36ba3037d060e170a |
+|  9 | 0x0c48991a22166b17c655758ad382714cb1d0a0a1 |
+| 10 | 0xea83b2149b00649c6018f2212aea23e9582f2a84 |
+| 11 | 0x2b0f47bf3f0bf80b30605a2aef1fe15522863664 |
+| 12 | 0xd06a6028464c543933933f49a417611499eebbab |
+| 13 | 0x2aa6d9fd905e97c7cb58df50475cdd13676c0285 |
+| 14 | 0xda7e93253623369dfebe4ee7fab54553a15907ce |
+| 15 | 0xce887147ece1c405e3e5970f76b6306b3d4cd4c7 |
